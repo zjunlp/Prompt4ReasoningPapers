@@ -2,11 +2,7 @@
 
 Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thought Prompting Elicits Reasoning in Large Language Models*** has lead a wave of performing reasoning tasks with pretrained language models. We summarize this by listing the related tasks, datasets and the latest papers.
 
-[TOC]
-
 ## Tasks and Datasets
-
-BIG-bench
 
 - **Arithmetic Reasoning**: [GSM8K](https://arxiv.org/abs/2110.14168), [SVAMP](https://aclanthology.org/2021.naacl-main.168.pdf), [ASDiv](https://aclanthology.org/2020.acl-main.92/), [AQuA-RAT](https://aclanthology.org/P17-1015/), [MAWPS](https://aclanthology.org/N16-1136/), [AddSub](https://aclanthology.org/D14-1058/), [MultiArith](https://aclanthology.org/D15-1202/), [SingleEq](https://aclanthology.org/Q15-1042/)
 - **Commonsense Reasoning**: [CommonsenseQA](https://aclanthology.org/N19-1421/), [StrategyQA](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00370/100680/Did-Aristotle-Use-a-Laptop-A-Question-Answering), [ARC](https://arxiv.org/abs/1803.05457) [SayCan](https://arxiv.org/abs/2204.01691), [SCAN](http://proceedings.mlr.press/v80/lake18a.html)
@@ -15,6 +11,7 @@ BIG-bench
 - **Inductive Reasoning**: [CLUTRR](https://aclanthology.org/D19-1458/)
 - **Question Answering**: [BoolQA](https://aclanthology.org/N19-1300/), [HotpotQA](https://aclanthology.org/D18-1259/), [OpenBookQA](https://aclanthology.org/D18-1260/)
 - **Natural Language Inference**: [ANLI](https://aclanthology.org/2020.acl-main.441/), [e-SNLI](https://proceedings.neurips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf), [MNLI](https://aclanthology.org/N18-1101/), [RTE](https://tac.nist.gov/publications/2009/additional.papers/RTE5_overview.proceedings.pdf)
+- **A Challenge Large Language Model Benchmarks**: [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615)
 
 ## Papers
 
