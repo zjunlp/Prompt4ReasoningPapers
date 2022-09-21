@@ -12,6 +12,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 - **Question Answering**: [BoolQA](https://aclanthology.org/N19-1300/), [HotpotQA](https://aclanthology.org/D18-1259/), [OpenBookQA](https://aclanthology.org/D18-1260/)
 - **Natural Language Inference**: [ANLI](https://aclanthology.org/2020.acl-main.441/), [e-SNLI](https://proceedings.neurips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf), [MNLI](https://aclanthology.org/N18-1101/), [RTE](https://tac.nist.gov/publications/2009/additional.papers/RTE5_overview.proceedings.pdf)
 - **A Challenge Large Language Model Benchmarks**: [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615)
+- **Science Question Answering (Multimodal)**: [SCIENCEQA](https://scienceqa.github.io/)
 
 ## Papers
 
@@ -78,3 +79,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 16. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
 
     *Ben Prystawski, Paul Thibodeau, Noah Goodman*. [[pdf](https://arxiv.org/pdf/2209.08141.pdf)], 2022.9
+
+17. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
+
+    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*. [[pdf](https://arxiv.org/abs/2209.09513)], 2022.9
