@@ -44,42 +44,46 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet, Quoc Le, Ed Chi*. [[pdf](https://arxiv.org/pdf/2205.10625.pdf)], 2022.5
 
-8. **Generating Natural Language Proofs with Verifier-Guided Search.**
+8. **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning.**
+
+   *Antonia Creswell, Murray Shanahan, Irina Higgins*. [[pdf](https://arxiv.org/pdf/2205.09712.pdf)], 2022.5
+
+9. **Generating Natural Language Proofs with Verifier-Guided Search.**
 
    *Kaiyu Yang, Jia Deng, Danqi Chen*. [[pdf](https://arxiv.org/pdf/2205.12443.pdf)], 2022.5
 
-9. **On the Advance of Making Language Models Better Reasoners.**
+10. **On the Advance of Making Language Models Better Reasoners.**
 
    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*. [[pdf](https://arxiv.org/pdf/2206.02336.pdf)], 2022.6
 
-10. **Emergent Abilities of Large Language Models.**
+11. **Emergent Abilities of Large Language Models.**
 
     *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus*. [[pdf](https://arxiv.org/pdf/2206.07682.pdf)], 2022.6
 
-11. **Solving Quantitative Reasoning Problems with Language Models.**
+12. **Solving Quantitative Reasoning Problems with Language Models.**
 
     *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra*. [[pdf](https://arxiv.org/pdf/2206.14858.pdf)], 2022.6
 
-12. **A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams.**
+13. **A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams.**
 
     *Sarah Zhang, Reece Shuttleworth, Derek Austin, Yann Hicke, Leonard Tang, Sathwik Karnik, Darnell Granberry, Iddo Drori*. [[pdf](https://arxiv.org/pdf/2206.05442.pdf)], 2022.6
 
-13. **Rational-Augmented Ensembles in Language Models.**
+14. **Rational-Augmented Ensembles in Language Models.**
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2207.00747.pdf)], 2022.7
 
-14. **Language Model Cascades.**
+15. **Language Model Cascades.**
 
     *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton*. [[pdf](https://arxiv.org/pdf/2207.10342.pdf)], 2022.7
 
-15. **Faithful Reasoning Using Large Language Models.**
+16. **Faithful Reasoning Using Large Language Models.**
 
     *Antonia Creswell, Murray Shanahan*. [[pdf](https://arxiv.org/pdf/2208.14271.pdf)], 2022.8
 
-16. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
+17. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
 
     *Ben Prystawski, Paul Thibodeau, Noah Goodman*. [[pdf](https://arxiv.org/pdf/2209.08141.pdf)], 2022.9
 
-17. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
+18. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
 
     *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*. [[pdf](https://arxiv.org/abs/2209.09513)], 2022.9
