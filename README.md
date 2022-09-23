@@ -54,7 +54,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
 10. **On the Advance of Making Language Models Better Reasoners.**
 
-    Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*. [[pdf](https://arxiv.org/pdf/2206.02336.pdf)], 2022.6
+    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*. [[pdf](https://arxiv.org/pdf/2206.02336.pdf)], 2022.6
 
 11. **Emergent Abilities of Large Language Models.**
 
