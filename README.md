@@ -84,10 +84,18 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
     *Ben Prystawski, Paul Thibodeau, Noah Goodman*. [[pdf](https://arxiv.org/pdf/2209.08141.pdf)], 2022.9
 
-18. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
+18. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
     *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*. [[pdf](https://arxiv.org/abs/2209.09513)], 2022.9
-    
-19. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models**
+
+19. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
     *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[pdf](https://arxiv.org/pdf/2210.01504)], 2022.10
+
+20. **Complexity-based Prompting for Multi-step Reasoning.**
+
+    *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot*. [[pdf](https://arxiv.org/abs/2210.00720)], 2022.10
+
+21. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
+
+    *Abulhair Saparov, He He*. [[pdf](https://arxiv.org/pdf/2210.01240.pdf)], 2022.10
