@@ -87,3 +87,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 18. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
 
     *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*. [[pdf](https://arxiv.org/abs/2209.09513)], 2022.9
+    
+19. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models**
+
+    *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[pdf](https://arxiv.org/pdf/2210.01504)], 2022.10
