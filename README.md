@@ -76,9 +76,13 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2207.00747.pdf)], 2022.7
 
-15. **Language Model Cascades.**
+16. **Language Model Cascades.**
 
     *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton*. [[pdf](https://arxiv.org/pdf/2207.10342.pdf)], 2022.7
+
+17. **Language models show human-like content effects on reasoning.**
+
+    *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill.* [[pdf](https://arxiv.org/pdf/2207.07051)], 2022.7
 
 16. **Faithful Reasoning Using Large Language Models.**
 
@@ -104,6 +108,6 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
     *Abulhair Saparov, He He*. [[pdf](https://arxiv.org/pdf/2210.01240.pdf)], 2022.10
     
-23. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
+24. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
 
     *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[pdf](https://arxiv.org/pdf/2210.02406)], 2022.10
