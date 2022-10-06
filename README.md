@@ -24,7 +24,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2203.11171.pdf)], 2022.3
 
-3. **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning.**
+3. **STaR: Bootstrapping Reasoning With Reasoning.**
 
    *Eric Zelikman, Yuhuai Wu, Noah D. Goodman*. [[pdf](https://arxiv.org/pdf/2203.14465v1.pdf)], 2022.3
 
@@ -52,6 +52,10 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
    *Kaiyu Yang, Jia Deng, Danqi Chen*. [[pdf](https://arxiv.org/pdf/2205.12443.pdf)], 2022.5
 
+9. **Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations.**
+
+   *Jaehun Jung, Lianhui Qin, Sean Welleck, Faeze Brahman, Chandra Bhagavatula, Ronan Le Bras, Yejin Choi.* [[pdf](https://arxiv.org/pdf/2205.11822)], 2022.5
+
 10. **On the Advance of Making Language Models Better Reasoners.**
 
     *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*. [[pdf](https://arxiv.org/pdf/2206.02336.pdf)], 2022.6
@@ -68,7 +72,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
     *Sarah Zhang, Reece Shuttleworth, Derek Austin, Yann Hicke, Leonard Tang, Sathwik Karnik, Darnell Granberry, Iddo Drori*. [[pdf](https://arxiv.org/pdf/2206.05442.pdf)], 2022.6
 
-14. **Rational-Augmented Ensembles in Language Models.**
+14. **Rationale-Augmented Ensembles in Language Models.**
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2207.00747.pdf)], 2022.7
 
@@ -99,3 +103,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 21. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
 
     *Abulhair Saparov, He He*. [[pdf](https://arxiv.org/pdf/2210.01240.pdf)], 2022.10
+    
+23. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
+
+    *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[pdf](https://arxiv.org/pdf/2210.02406)], 2022.10
