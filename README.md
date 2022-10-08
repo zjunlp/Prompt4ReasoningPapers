@@ -1,7 +1,7 @@
 # Pretrained Language Models Reasoning Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/PLMReasonPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-35-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-37-brightgreen)
 
 Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thought Prompting Elicits Reasoning in Large Language Models*** has lead a wave of performing reasoning tasks with pretrained language models. We summarize this by listing the related tasks, datasets and the latest papers.
 
@@ -61,100 +61,108 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 
 11. **STaR: Bootstrapping Reasoning With Reasoning.**
 
-    *Eric Zelikman, Yuhuai Wu, Noah D. Goodman*. [[abs](https://arxiv.org/abs/2203.14465v1)], 2022.3
+     *Eric Zelikman, Yuhuai Wu, Noah D. Goodman*. [[abs](https://arxiv.org/abs/2203.14465v1)], 2022.3
 
 12. **FaiRR: Faithful and Robust Deductive Reasoning over Natural Language.**
 
-    *Soumya Sanyal, Harman Singh, Xiang Ren*. [[abs](https://arxiv.org/abs/2203.10261)], 2022.3
+     *Soumya Sanyal, Harman Singh, Xiang Ren*. [[abs](https://arxiv.org/abs/2203.10261)], 2022.3
 
 13. **Can language models learn from explanations in context?**
 
-    *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*. [[abs](https://arxiv.org/abs/2204.02329)], 2022.4
+     *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*. [[abs](https://arxiv.org/abs/2204.02329)], 2022.4
 
 14. **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.**
 
-    *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*. [[abs](https://arxiv.org/abs/2204.00598)], 2022.4
+     *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*. [[abs](https://arxiv.org/abs/2204.00598)], 2022.4
 
 15. **Towards Teachable Reasoning Systems.**
 
-    *Bhavana Dalvi, Oyvind Tafjord, Peter Clark*. [[abs](https://arxiv.org/abs/2204.13074)], 2022.4
+     *Bhavana Dalvi, Oyvind Tafjord, Peter Clark*. [[abs](https://arxiv.org/abs/2204.13074)], 2022.4
 
 16. **The Unreliability of Explanations in Few-Shot In-Context Learning.**
 
-    *Xi Ye, Greg Durrett*. [[abs](https://arxiv.org/abs/2205.03401)], 2022.5
+     *Xi Ye, Greg Durrett*. [[abs](https://arxiv.org/abs/2205.03401)], 2022.5
 
 17. **Large Language Models are Zero-Shot Reasoners.**
 
-    *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa*. [[abs](https://arxiv.org/abs/2205.11916v2)], 2022.5
+     *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa*. [[abs](https://arxiv.org/abs/2205.11916v2)], 2022.5
 
 18. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models.**
 
-    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet, Quoc Le, Ed Chi*. [[abs](https://arxiv.org/abs/2205.10625)], 2022.5
+     *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet, Quoc Le, Ed Chi*. [[abs](https://arxiv.org/abs/2205.10625)], 2022.5
 
 19. **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning.**
 
-    *Antonia Creswell, Murray Shanahan, Irina Higgins*. [[abs](https://arxiv.org/abs/2205.09712)], 2022.5
+     *Antonia Creswell, Murray Shanahan, Irina Higgins*. [[abs](https://arxiv.org/abs/2205.09712)], 2022.5
 
 20. **Generating Natural Language Proofs with Verifier-Guided Search.**
 
-    *Kaiyu Yang, Jia Deng, Danqi Chen*. [[abs](https://arxiv.org/abs/2205.12443)], 2022.5
+     *Kaiyu Yang, Jia Deng, Danqi Chen*. [[abs](https://arxiv.org/abs/2205.12443)], 2022.5
 
 21. **Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations.**
 
-    *Jaehun Jung, Lianhui Qin, Sean Welleck, Faeze Brahman, Chandra Bhagavatula, Ronan Le Bras, Yejin Choi.* [[abs](https://arxiv.org/abs/2205.11822)], 2022.5
+     *Jaehun Jung, Lianhui Qin, Sean Welleck, Faeze Brahman, Chandra Bhagavatula, Ronan Le Bras, Yejin Choi.* [[abs](https://arxiv.org/abs/2205.11822)], 2022.5
 
 22. **On the Advance of Making Language Models Better Reasoners.**
 
-    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*. [[abs](https://arxiv.org/abs/2206.02336)], 2022.6
+     *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*. [[abs](https://arxiv.org/abs/2206.02336)], 2022.6
 
 23. **Emergent Abilities of Large Language Models.**
 
-    *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus*. [[abs](https://arxiv.org/abs/2206.07682)], 2022.6
+     *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus*. [[abs](https://arxiv.org/abs/2206.07682)], 2022.6
 
 24. **Solving Quantitative Reasoning Problems with Language Models.**
 
-    *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra*. [[abs](https://arxiv.org/abs/2206.14858)], 2022.6
+     *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra*. [[abs](https://arxiv.org/abs/2206.14858)], 2022.6
 
 25. **A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams.**
 
-    *Sarah Zhang, Reece Shuttleworth, Derek Austin, Yann Hicke, Leonard Tang, Sathwik Karnik, Darnell Granberry, Iddo Drori*. [[abs](https://arxiv.org/abs/2206.05442)], 2022.6
+     *Sarah Zhang, Reece Shuttleworth, Derek Austin, Yann Hicke, Leonard Tang, Sathwik Karnik, Darnell Granberry, Iddo Drori*. [[abs](https://arxiv.org/abs/2206.05442)], 2022.6
 
 26. **Rationale-Augmented Ensembles in Language Models.**
 
-    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*. [[abs](https://arxiv.org/abs/2207.00747)], 2022.7
+     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*. [[abs](https://arxiv.org/abs/2207.00747)], 2022.7
 
 27. **Language Model Cascades.**
 
-    *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton*. [[abs](https://arxiv.org/abs/2207.10342)], 2022.7
+     *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton*. [[abs](https://arxiv.org/abs/2207.10342)], 2022.7
 
 28. **Language models show human-like content effects on reasoning.**
 
-    *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill.* [[abs](https://arxiv.org/abs/2207.07051)], 2022.7
+     *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill.* [[abs](https://arxiv.org/abs/2207.07051)], 2022.7
 
 29. **Faithful Reasoning Using Large Language Models.**
 
-    *Antonia Creswell, Murray Shanahan*. [[abs](https://arxiv.org/abs/2208.14271)], 2022.8
+     *Antonia Creswell, Murray Shanahan*. [[abs](https://arxiv.org/abs/2208.14271)], 2022.8
 
 30. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
 
-    *Ben Prystawski, Paul Thibodeau, Noah Goodman*. [[abs](https://arxiv.org/abs/2209.08141)], 2022.9
+     *Ben Prystawski, Paul Thibodeau, Noah Goodman*. [[abs](https://arxiv.org/abs/2209.08141)], 2022.9
 
 31. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
-    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*. [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
+     *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*. [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
 
-32. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
+32. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.**
 
-    *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
+     *Joel Jang, Seongheyon Ye, Minjoon Seo*. [[abs](https://arxiv.org/abs/2209.12711)], 2022.9
 
-33. **Complexity-based Prompting for Multi-step Reasoning.**
+33. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
-    *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot*. [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
+     *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
 
-34. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
+34. **Complexity-based Prompting for Multi-step Reasoning.**
 
-    *Abulhair Saparov, He He*. [[abs](https://arxiv.org/abs/2210.01240)], 2022.10
+     *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot*. [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
 
-35. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
+35. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
 
-    *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[abs](https://arxiv.org/abs/2210.02406)], 2022.10
+     *Abulhair Saparov, He He*. [[abs](https://arxiv.org/abs/2210.01240)], 2022.10
+
+36. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
+
+     *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[abs](https://arxiv.org/abs/2210.02406)], 2022.10
+
+37. **Language Models are Multilingual Chain-of-thought Reasoners.**
+
+     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei*. [[abs](https://arxiv.org/abs/2210.03057)], 2022.10
