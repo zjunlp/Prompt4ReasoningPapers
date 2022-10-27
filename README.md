@@ -1,7 +1,7 @@
 # Pretrained Language Models Reasoning Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/PLMReasonPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-47-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-48-brightgreen)
 
 Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thought Prompting Elicits Reasoning in Large Language Models*** has lead a wave of performing reasoning tasks with pretrained language models. We summarize this by listing the related tasks, datasets and the latest papers.
 
@@ -176,31 +176,35 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 40. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.**
 
      *Joel Jang, Seongheyon Ye, Minjoon Seo*. [[abs](https://arxiv.org/abs/2209.12711)], 2022.9
+     
+41. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
 
-41. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
+     *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan*. [[abs](https://arxiv.org/abs/2209.14610)], 2022.9
+
+42. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
      *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
 
-42. **Complexity-based Prompting for Multi-step Reasoning.**
+43. **Complexity-based Prompting for Multi-step Reasoning.**
 
      *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot*. [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
 
-43. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
+44. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
 
      *Abulhair Saparov, He He*. [[abs](https://arxiv.org/abs/2210.01240)], 2022.10
 
-44. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
+45. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
 
      *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[abs](https://arxiv.org/abs/2210.02406)], 2022.10
 
-45. **Language Models are Multilingual Chain-of-thought Reasoners.**
+46. **Language Models are Multilingual Chain-of-thought Reasoners.**
 
      *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei*. [[abs](https://arxiv.org/abs/2210.03057)], 2022.10
      
-46. **Measuring and Narrowing the Compositionality Gap in Language Models.**
+47. **Measuring and Narrowing the Compositionality Gap in Language Models.**
 
     *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*. [[abs](https://arxiv.org/abs/2210.03350)], 2022.10
    
-47. **Automatic Chain of Thought Prompting in Large Language Models.**
+48. **Automatic Chain of Thought Prompting in Large Language Models.**
 
      *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*. [[abs](https://arxiv.org/abs/2210.03493)], 2022.10
