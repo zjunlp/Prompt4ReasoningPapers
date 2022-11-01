@@ -1,7 +1,7 @@
 # Pretrained Language Models Reasoning Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/PLMReasonPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-48-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-49-brightgreen)
 
 Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thought Prompting Elicits Reasoning in Large Language Models*** has lead a wave of performing reasoning tasks with pretrained language models. We summarize this by listing the related tasks, datasets and the latest papers.
 
@@ -208,3 +208,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 48. **Automatic Chain of Thought Prompting in Large Language Models.**
 
      *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*. [[abs](https://arxiv.org/abs/2210.03493)], 2022.10
+     
+49. **Large Language Models Can Self-Improve.**
+
+     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han*. [[abs](https://arxiv.org/abs/2210.11610)], 2022.10
