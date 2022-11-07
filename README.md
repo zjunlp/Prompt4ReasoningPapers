@@ -212,3 +212,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 49. **Large Language Models Can Self-Improve.**
 
      *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han*. [[abs](https://arxiv.org/abs/2210.11610)], 2022.10
+     
+50. **Mind's Eye: Grounded Language Model Reasoning through Simulation.**
+
+     *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai*. [[abs](https://arxiv.org/abs/2210.05359)], 2022.10
