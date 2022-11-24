@@ -1,7 +1,7 @@
 # Reasoning with Language Model Prompting Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/PLMReasonPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-49-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-53-brightgreen)
 
 Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thought Prompting Elicits Reasoning in Large Language Models*** has lead a wave of performing reasoning tasks with pretrained language models. We summarize this by listing the related tasks, datasets and the latest papers.
 
@@ -176,7 +176,7 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 40. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.**
 
      *Joel Jang, Seongheyon Ye, Minjoon Seo*. [[abs](https://arxiv.org/abs/2209.12711)], 2022.9
-     
+
 41. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
 
      *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan*. [[abs](https://arxiv.org/abs/2209.14610)], 2022.9
@@ -200,19 +200,31 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 46. **Language Models are Multilingual Chain-of-thought Reasoners.**
 
      *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei*. [[abs](https://arxiv.org/abs/2210.03057)], 2022.10
-     
+
 47. **Measuring and Narrowing the Compositionality Gap in Language Models.**
 
     *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*. [[abs](https://arxiv.org/abs/2210.03350)], 2022.10
-   
+
 48. **Automatic Chain of Thought Prompting in Large Language Models.**
 
      *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*. [[abs](https://arxiv.org/abs/2210.03493)], 2022.10
-     
+
 49. **Large Language Models Can Self-Improve.**
 
      *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han*. [[abs](https://arxiv.org/abs/2210.11610)], 2022.10
-     
+
 50. **Mind's Eye: Grounded Language Model Reasoning through Simulation.**
 
      *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai*. [[abs](https://arxiv.org/abs/2210.05359)], 2022.10
+
+51. **Language Models of Code are Few-Shot Commonsense Learners.**
+
+     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig*. [[abs](https://arxiv.org/abs/2210.07128)], 2022.10
+
+52. **PAL: Program-aided Language Models.**
+
+     *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig*. [[abs](https://arxiv.org/abs/2211.10435)], 2022.11
+
+53. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
+
+     *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen*. [[abs](https://arxiv.org/abs/2211.12588)], 2022.11
