@@ -1,4 +1,4 @@
-# Pretrained Language Models Reasoning Papers
+# Reasoning with Language Model Prompting Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/PLMReasonPapers?color=green) 
 ![](https://img.shields.io/badge/PaperNumber-49-brightgreen)
