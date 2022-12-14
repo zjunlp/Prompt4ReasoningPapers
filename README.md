@@ -1,7 +1,7 @@
 # Reasoning with Language Model Prompting Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/PLMReasonPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-54-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-55-brightgreen)
 
 Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thought Prompting Elicits Reasoning in Large Language Models*** has lead a wave of performing reasoning tasks with pretrained language models. We summarize this by listing the related tasks, datasets and the latest papers.
 
@@ -219,15 +219,19 @@ Recently, **chain-of-thought** proposed by Google in the paper ***Chain of Thoug
 51. **Language Models of Code are Few-Shot Commonsense Learners.**
 
      *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig*. [[abs](https://arxiv.org/abs/2210.07128)], 2022.10
+     
+52. **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.**
 
-52. **PAL: Program-aided Language Models.**
+     *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei*. [[abs](https://arxiv.org/abs/2210.09261)], 2022.10
+
+53. **PAL: Program-aided Language Models.**
 
      *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig*. [[abs](https://arxiv.org/abs/2211.10435)], 2022.11
 
-53. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
+54. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
      *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen*. [[abs](https://arxiv.org/abs/2211.12588)], 2022.11
 
-54. **Teaching Algorithmic Reasoning via In-context Learning.**
+55. **Teaching Algorithmic Reasoning via In-context Learning.**
 
      *Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi*. [[abs](https://arxiv.org/abs/2211.09066)], 2022.11
