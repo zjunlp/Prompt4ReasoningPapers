@@ -1,7 +1,7 @@
 # Reasoning with Language Model Prompting Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/Prompt4ReasoningPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-46-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-49-brightgreen)
 
 ## 🔔 News
 
@@ -230,6 +230,14 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 4. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
+   
+5. **The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning.**
+
+   *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric Xing.* [[abs](https://arxiv.org/abs/2212.08686)], 2022.12
+
+6. **Large Language Models are reasoners with Self-Verification.**
+
+   *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)]
 
 ### Analysis
 
@@ -260,6 +268,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 7. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
    *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
+   
+8. **Emergent Analogical Reasoning in Large Language Models.**
+
+   *Taylor Webb, Keith J. Holyoak, Hongjing Lu.* [[abs](https://arxiv.org/abs/2212.09196)], 2022.12
 
 ---
 
