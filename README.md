@@ -55,7 +55,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **Towards Reasoning in Large Language Models: A Survey.**
 
    *Jie Huang, Kevin Chen-Chuan Chang.* [[abs](https://arxiv.org/abs/2212.10403)], 2022.12
+   
+3. **A Survey of Deep Learning for Mathematical Reasoning.**
 
+   *Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang.* [[abs](https://arxiv.org/abs/2212.10535)], 2022.12
+   
 
 ### Methods
 
