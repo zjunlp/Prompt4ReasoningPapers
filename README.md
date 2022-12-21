@@ -1,7 +1,7 @@
 # Reasoning with Language Model Prompting Papers
 
 ![](https://img.shields.io/github/last-commit/zjunlp/Prompt4ReasoningPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-49-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-54-brightgreen)
 
 ## 🔔 News
 
@@ -13,6 +13,7 @@
 
 - [🌟 Introduction](#-introduction)
 - [📜 Papers](#-papers)
+  - [Overview](#overview)
   - [Methods](#methods)
     - [Strategy Enhanced Reasoning](#strategy-enhanced-reasoning)
       - [Prompt Engineering](#prompt-engineering)
@@ -28,6 +29,7 @@
     - [Knowledge Enhanced Reasoning](#knowledge-enhanced-reasoning)
       - [Implicit Knowledge](#implicit-knowledge)
       - [Explicit Knowledge](#explicit-knowledge)
+    - [Others](#others)
   - [Analysis](#analysis)
 - [🧰 Resources](#-resources)
     - [Benchmarks and Tasks](#benchmarks-and-tasks)
@@ -42,6 +44,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 ---
 
 ## 📜 Papers
+
+### Overview
+
+1. **Reasoning with Language Model Prompting: A Survey.**
+
+   *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[abs](https://arxiv.org/abs/2212.09597)], 2022.12
+
+2. **Towards Reasoning in Large Language Models: A Survey.**
+
+   *Jie Huang, Kevin Chen-Chuan Chang.* [[abs](https://arxiv.org/abs/2212.10403)], 2022.12
+
 
 ### Methods
 
@@ -235,9 +248,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric Xing.* [[abs](https://arxiv.org/abs/2212.08686)], 2022.12
 
-6. **Large Language Models are reasoners with Self-Verification.**
+6. **Teaching Small Language Models to Reason.**
 
-   *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)]
+   *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[abs](https://arxiv.org/abs/2212.08410)], 2022.12
+
+7. **Large Language Models are reasoners with Self-Verification.**
+
+   *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
+   
+8. **Large Language Models Are Reasoning Teachers.**
+
+   *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[abs](https://arxiv.org/abs/2212.10071)], 2022.12
 
 ### Analysis
 
@@ -272,6 +293,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 8. **Emergent Analogical Reasoning in Large Language Models.**
 
    *Taylor Webb, Keith J. Holyoak, Hongjing Lu.* [[abs](https://arxiv.org/abs/2212.09196)], 2022.12
+   
+9. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
+
+   *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun.* [[abs](https://arxiv.org/abs/2212.10001)], 2022.12
 
 ---
 
