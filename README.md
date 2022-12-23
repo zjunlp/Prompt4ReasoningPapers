@@ -2,11 +2,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/Prompt4ReasoningPapers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/zjunlp/Prompt4ReasoningPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-54-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-58-brightgreen)
 
 ## 🔔 News
 
-- **2022-12-19  We have released a new survey paper:"[Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
+- **2022-12-19  We release a new survey paper:"[Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
+- **2022-09-14 We create this repository to maintain a paper list on *Reasoning with Language Model Prompting*.**
 
 ---
 
@@ -35,6 +36,8 @@
 - [🧰 Resources](#-resources)
     - [Benchmarks and Tasks](#benchmarks-and-tasks)
     - [Tools](#tools)
+- [🎉 Contributing](#-contributing)
+- [🚩Citation ](#-citation)
 
 ---
 
@@ -85,25 +88,29 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa.* [[abs](https://arxiv.org/abs/2205.11916)], 2022.5
    
-5. **Complexity-based Prompting for Multi-step Reasoning.**
+5. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
+
+   *Ben Prystawski, Paul Thibodeau, Noah Goodman.* [[abs](https://arxiv.org/abs/2209.08141)], 2022.9
+   
+6. **Complexity-based Prompting for Multi-step Reasoning.**
 
    *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot.* [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
    
-6. **Language Models are Multilingual Chain-of-thought Reasoners.**
+7. **Language Models are Multilingual Chain-of-thought Reasoners.**
 
    *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei.* [[abs](https://arxiv.org/abs/2210.03057)], 2022.10
    
-7. **Automatic Chain of Thought Prompting in Large Language Models.**
+8. **Automatic Chain of Thought Prompting in Large Language Models.**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[abs](https://arxiv.org/abs/2210.03493)], 2022.10
     
-8. **Large Language Models are few(1)-shot Table Reasoners.**
+9. **Large Language Models are few(1)-shot Table Reasoners.**
 
     *Wenhu Chen.* [[abs](https://arxiv.org/abs/2210.06710)], 2022.10
 
-9. **Teaching Algorithmic Reasoning via In-context Learning.**
+10. **Teaching Algorithmic Reasoning via In-context Learning.**
 
-   *Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi.* [[abs](https://arxiv.org/abs/2211.09066)], 2022.11
+    *Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi.* [[abs](https://arxiv.org/abs/2211.09066)], 2022.11
 
 ###### Multi-Stage
 
@@ -127,13 +134,21 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Antonia Creswell, Murray Shanahan.* [[abs](https://arxiv.org/abs/2208.14271)], 2022.8
    
-6. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
+6. **Compositional Semantic Parsing with Large Language Models.**
+
+   *Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou.* [[abs](https://arxiv.org/abs/2209.15003)], 2022.9
+   
+7. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
 
    *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[abs](https://arxiv.org/abs/2210.02406)], 2022.10
    
-7. **Measuring and Narrowing the Compositionality Gap in Language Models.**
+8. **Measuring and Narrowing the Compositionality Gap in Language Models.**
 
    *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis.* [[abs](https://arxiv.org/abs/2210.03350)], 2022.10
+   
+9. **Successive Prompting for Decomposing Complex Questions.**
+
+   *Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner.* [[abs](https://arxiv.org/abs/2212.04092)], 2022.12
 
 ##### Process Optimization
 
@@ -160,6 +175,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Complexity-based Prompting for Multi-step Reasoning.**
 
    *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot.* [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
+   
+4. **Large Language Models are reasoners with Self-Verification.**
+
+   *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
 
 ###### Iterative-Optimization
 
@@ -216,6 +235,18 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 5. **TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering.**
 
     *Yueqing Sun, Yu Zhang, Le Qi, Qi Shi.* [[abs](https://arxiv.org/abs/2211.13515)], 2022.11
+    
+6. **Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.**
+
+    *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2212.00193)], 2022.12
+    
+7. **Teaching Small Language Models to Reason.**
+
+    *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[abs](https://arxiv.org/abs/2212.08410)], 2022.12
+
+8. **Large Language Models Are Reasoning Teachers.**
+
+    *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[abs](https://arxiv.org/abs/2212.10071)], 2022.12
 
 ##### Explicit Knowledge
 
@@ -237,33 +268,13 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton*. [[abs](https://arxiv.org/abs/2207.10342)], 2022.7
    
-2. **Rationale-Augmented Ensembles in Language Models.**
-
-   *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou.* [[abs](https://arxiv.org/abs/2207.00747)], 2022.7
-   
-3. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
-
-   *Ben Prystawski, Paul Thibodeau, Noah Goodman.* [[abs](https://arxiv.org/abs/2209.08141)], 2022.9
-   
-4. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
+2. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
    
-5. **The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning.**
+3. **The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning.**
 
    *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric Xing.* [[abs](https://arxiv.org/abs/2212.08686)], 2022.12
-
-6. **Teaching Small Language Models to Reason.**
-
-   *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[abs](https://arxiv.org/abs/2212.08410)], 2022.12
-
-7. **Large Language Models are reasoners with Self-Verification.**
-
-   *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
-   
-8. **Large Language Models Are Reasoning Teachers.**
-
-   *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[abs](https://arxiv.org/abs/2212.10071)], 2022.12
 
 ### Analysis
 
@@ -279,29 +290,33 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
    
    *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill.* [[abs](https://arxiv.org/abs/2207.07051)], 2022.7
    
-4. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.**
+4. **Rationale-Augmented Ensembles in Language Models.**
+   
+   *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou.* [[abs](https://arxiv.org/abs/2207.00747)], 2022.7
+   
+5. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.**
    
    *Joel Jang, Seongheyon Ye, Minjoon Seo.* [[abs](https://arxiv.org/abs/2209.12711)], 2022.9
    
-5. **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.**
+6. **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.**
 
    *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[abs](https://arxiv.org/abs/2210.09261)], 2022.10
    
-6. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
+7. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
 
    *Abulhair Saparov, He He.* [[abs](https://arxiv.org/abs/2210.01240)], 2022.10
    
-7. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
+8. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
    *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
    
-8. **Emergent Analogical Reasoning in Large Language Models.**
+9. **Emergent Analogical Reasoning in Large Language Models.**
 
    *Taylor Webb, Keith J. Holyoak, Hongjing Lu.* [[abs](https://arxiv.org/abs/2212.09196)], 2022.12
    
-9. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
+10. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
-   *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun.* [[abs](https://arxiv.org/abs/2212.10001)], 2022.12
+    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun.* [[abs](https://arxiv.org/abs/2212.10001)], 2022.12
 
 ---
 
@@ -326,26 +341,34 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 ---
 
+## 🎉 Contributing
+
+- Add a new paper or update an existing paper, thinking about which category the work should belong to.
+- Use the same format as existing entries to discribe the work.
+- Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
+- Modify the `PaperNumber` on the top of the page  accordingly and submit your pull request.
+- A very brief explanation why you think a paper should be added or updated is recommended.
+
+**Don't worry if you put something wrong, they will be fixed for you. Just contribute and promote your awesome work here!**
+
+### Contributors
+
+<a href="https://github.com/zjunlp/Prompt4ReasoningPapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zjunlp/Prompt4ReasoningPapers" />
+</a>
+
+---
+
 ## 🚩Citation 
+
 If you find this survey useful for your research, please consider citing
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2212.09597,
-  doi = {10.48550/ARXIV.2212.09597},
-  
-  url = {https://arxiv.org/abs/2212.09597},
-  
-  author = {Qiao, Shuofei and Ou, Yixin and Zhang, Ningyu and Chen, Xiang and Yao, Yunzhi and Deng, Shumin and Tan, Chuanqi and Huang, Fei and Chen, Huajun},
-  
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Computer Vision and Pattern Recognition (cs.CV), Information Retrieval (cs.IR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Reasoning with Language Model Prompting: A Survey},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{qiao2022reasoning,
+  title={Reasoning with Language Model Prompting: A Survey},
+  author={Qiao, Shuofei and Ou, Yixin and Zhang, Ningyu and Chen, Xiang and Yao, Yunzhi and Deng, Shumin and Tan, Chuanqi and Huang, Fei and Chen, Huajun},
+  journal={arXiv preprint arXiv:2212.09597},
+  year={2022}
 }
 ```
 
