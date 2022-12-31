@@ -149,7 +149,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 9. **Successive Prompting for Decomposing Complex Questions.**
 
    *Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner.* [[abs](https://arxiv.org/abs/2212.04092)], 2022.12
+   
+10. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.**
 
+   *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[abs](https://arxiv.org/abs/2212.13894)], 2022.12
+   
 ##### Process Optimization
 
 ###### Self-Optimization
@@ -317,6 +321,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 10. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
     *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun.* [[abs](https://arxiv.org/abs/2212.10001)], 2022.12
+    
+11. **On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning.**
+
+    *Omar Shaikh , Hongxin Zhang , William Held , Michael Bernstein , Diyi Yang.* [[abs](https://arxiv.org/abs/2212.08061)], 2022.12
 
 ---
 
