@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/Prompt4ReasoningPapers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/zjunlp/Prompt4ReasoningPapers?color=green) 
-![](https://img.shields.io/badge/PaperNumber-60-brightgreen)
+ ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 ## 🔔 News
 
