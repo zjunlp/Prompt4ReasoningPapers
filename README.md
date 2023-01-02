@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/Prompt4ReasoningPapers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/zjunlp/Prompt4ReasoningPapers?color=green) 
- ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 ## 🔔 News
 
@@ -153,7 +153,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 10. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.**
 
    *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[abs](https://arxiv.org/abs/2212.13894)], 2022.12
-   
+
 ##### Process Optimization
 
 ###### Self-Optimization
@@ -324,7 +324,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
     
 11. **On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning.**
 
-    *Omar Shaikh , Hongxin Zhang , William Held , Michael Bernstein , Diyi Yang.* [[abs](https://arxiv.org/abs/2212.08061)], 2022.12
+    *Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang.* [[abs](https://arxiv.org/abs/2212.08061)], 2022.12
+    
+12. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers.**
+
+    *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei.* [[abs](https://arxiv.org/abs/2212.10559)], 2022.12
 
 ---
 
@@ -352,9 +356,8 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 ## 🎉 Contributing
 
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.
-- Use the same format as existing entries to discribe the work.
+- Use the same format as existing entries to describe the work.
 - Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
-- Modify the `PaperNumber` on the top of the page  accordingly and submit your pull request.
 - A very brief explanation why you think a paper should be added or updated is recommended.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just contribute and promote your awesome work here!**
