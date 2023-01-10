@@ -126,38 +126,44 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning.**
 
    *Antonia Creswell, Murray Shanahan, Irina Higgins.* [[abs](https://arxiv.org/abs/2205.09712)], 2022.5
-   
+
 3. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models.**
 
    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet, Quoc Le, Ed Chi.* [[abs](https://arxiv.org/abs/2205.10625)], 2022.5
-   
+
 4. **Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations.**
 
    *Jaehun Jung, Lianhui Qin, Sean Welleck, Faeze Brahman, Chandra Bhagavatula, Ronan Le Bras, Yejin Choi.* [[abs](https://arxiv.org/abs/2205.11822)], 2022.5
-   
+
 5. **Faithful Reasoning Using Large Language Models.**
 
    *Antonia Creswell, Murray Shanahan.* [[abs](https://arxiv.org/abs/2208.14271)], 2022.8
-   
+
 6. **Compositional Semantic Parsing with Large Language Models.**
 
    *Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou.* [[abs](https://arxiv.org/abs/2209.15003)], 2022.9
-   
+
 7. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks.**
 
    *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal.* [[abs](https://arxiv.org/abs/2210.02406)], 2022.10
-   
+
 8. **Measuring and Narrowing the Compositionality Gap in Language Models.**
 
    *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis.* [[abs](https://arxiv.org/abs/2210.03350)], 2022.10
-   
+
 9. **Successive Prompting for Decomposing Complex Questions.**
 
    *Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner.* [[abs](https://arxiv.org/abs/2212.04092)], 2022.12
-   
+
 10. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.**
 
-   *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[abs](https://arxiv.org/abs/2212.13894)], 2022.12
+    *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[abs](https://arxiv.org/abs/2212.13894)], 2022.12
+
+11. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes.**
+
+    *Justin Reppert, Ben Rachbach, Charlie George, Luke Stebbing, Jungwon Byun, Maggie Appleton, Andreas Stuhlmüller.* [[abs](https://arxiv.org/abs/2301.01751)], 2023.1
+
+
 
 ##### Process Optimization
 
