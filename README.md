@@ -294,9 +294,9 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
    
-3. **The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning.**
+3. **Scaling Instruction-Finetuned Language Models.**
 
-   *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric Xing.* [[abs](https://arxiv.org/abs/2212.08686)], 2022.12
+   *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[abs](https://arxiv.org/abs/2210.11416)], 2022.10
 
 ### Analysis
 
