@@ -155,15 +155,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner.* [[abs](https://arxiv.org/abs/2212.04092)], 2022.12
 
-10. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.**
+10. **The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning.**
+
+    *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric Xing.* [[abs](https://arxiv.org/abs/2212.08686)], 2022.12
+
+11. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.**
 
     *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[abs](https://arxiv.org/abs/2212.13894)], 2022.12
 
-11. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes.**
+12. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes.**
 
     *Justin Reppert, Ben Rachbach, Charlie George, Luke Stebbing, Jungwon Byun, Maggie Appleton, Andreas Stuhlmüller.* [[abs](https://arxiv.org/abs/2301.01751)], 2023.1
-
-
 
 ##### Process Optimization
 
