@@ -265,6 +265,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
 
    *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.14610)], 2022.9
+   
+4. **Rethinking with Retrieval: Faithful Large Language Model Inference.**
+
+   *Hangfeng He, Hongming Zhang, Dan Roth.* [[abs](https://arxiv.org/abs/2301.00303)], 2022.12
+   
 
 #### Others
 
