@@ -304,44 +304,48 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **Emergent Abilities of Large Language Models.**
 
    *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus.* [[abs](https://arxiv.org/abs/2206.07682)], 2022.6
-   
+
 3. **Language models show human-like content effects on reasoning.**
-   
+
    *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill.* [[abs](https://arxiv.org/abs/2207.07051)], 2022.7
-   
+
 4. **Rationale-Augmented Ensembles in Language Models.**
-   
+
    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou.* [[abs](https://arxiv.org/abs/2207.00747)], 2022.7
-   
+
 5. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.**
-   
+
    *Joel Jang, Seongheyon Ye, Minjoon Seo.* [[abs](https://arxiv.org/abs/2209.12711)], 2022.9
-   
+
 6. **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.**
 
    *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[abs](https://arxiv.org/abs/2210.09261)], 2022.10
-   
+
 7. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
 
    *Abulhair Saparov, He He.* [[abs](https://arxiv.org/abs/2210.01240)], 2022.10
-   
+
 8. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
    *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
-   
+
 9. **Emergent Analogical Reasoning in Large Language Models.**
 
    *Taylor Webb, Keith J. Holyoak, Hongjing Lu.* [[abs](https://arxiv.org/abs/2212.09196)], 2022.12
-   
+
 10. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
     *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun.* [[abs](https://arxiv.org/abs/2212.10001)], 2022.12
-    
+
 11. **On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning.**
 
     *Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang.* [[abs](https://arxiv.org/abs/2212.08061)], 2022.12
-    
-12. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers.**
+
+12. **Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model.**
+
+    *Parishad BehnamGhader, Santiago Miret, Siva Reddy.* [[abs](https://arxiv.org/abs/2212.09146)], 2022.12
+
+13. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers.**
 
     *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei.* [[abs](https://arxiv.org/abs/2212.10559)], 2022.12
 
