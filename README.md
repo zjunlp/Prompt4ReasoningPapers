@@ -66,8 +66,6 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 4. **A Survey for In-context Learning.**
 
    *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui.* [[abs](https://arxiv.org/abs/2301.00234)], 2022.12
-   
-   
 
 ### Methods
 
@@ -92,23 +90,23 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 4. **Large Language Models are Zero-Shot Reasoners.**
 
    *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa.* [[abs](https://arxiv.org/abs/2205.11916)], 2022.5
-   
+
 5. **Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models.**
 
    *Ben Prystawski, Paul Thibodeau, Noah Goodman.* [[abs](https://arxiv.org/abs/2209.08141)], 2022.9
-   
+
 6. **Complexity-based Prompting for Multi-step Reasoning.**
 
    *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot.* [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
-   
+
 7. **Language Models are Multilingual Chain-of-thought Reasoners.**
 
    *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei.* [[abs](https://arxiv.org/abs/2210.03057)], 2022.10
-   
+
 8. **Automatic Chain of Thought Prompting in Large Language Models.**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[abs](https://arxiv.org/abs/2210.03493)], 2022.10
-    
+
 9. **Large Language Models are few(1)-shot Table Reasoners.**
 
     *Wenhu Chen.* [[abs](https://arxiv.org/abs/2210.06710)], 2022.10
@@ -188,11 +186,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **On the Advance of Making Language Models Better Reasoners.**
 
    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen.* [[abs](https://arxiv.org/abs/2206.02336)], 2022.6
-   
+
 3. **Complexity-based Prompting for Multi-step Reasoning.**
 
    *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot.* [[abs](https://arxiv.org/abs/2210.00720)], 2022.10
-   
+
 4. **Large Language Models are reasoners with Self-Verification.**
 
    *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
@@ -278,22 +276,21 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
 
    *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.14610)], 2022.9
-   
+
 4. **Rethinking with Retrieval: Faithful Large Language Model Inference.**
 
    *Hangfeng He, Hongming Zhang, Dan Roth.* [[abs](https://arxiv.org/abs/2301.00303)], 2022.12
-   
 
 #### Others
 
 1. **Language Model Cascades.**
 
    *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton*. [[abs](https://arxiv.org/abs/2207.10342)], 2022.7
-   
+
 2. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
-   
+
 3. **Scaling Instruction-Finetuned Language Models.**
 
    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[abs](https://arxiv.org/abs/2210.11416)], 2022.10
@@ -303,9 +300,9 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 1. **Can language models learn from explanations in context?**
 
    *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill.* [[abs](https://arxiv.org/abs/2204.02329)], 2022.4
-   
+
 2. **Emergent Abilities of Large Language Models.**
-   
+
    *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus.* [[abs](https://arxiv.org/abs/2206.07682)], 2022.6
    
 3. **Language models show human-like content effects on reasoning.**
