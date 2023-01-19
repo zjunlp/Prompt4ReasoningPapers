@@ -349,6 +349,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei.* [[abs](https://arxiv.org/abs/2212.10559)], 2022.12
 
+14. **Dissociating language and thought in large language models: a cognitive perspective.**
+
+    *Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko.* [[abs](https://arxiv.org/abs/2301.06627)], 2023.1
+
 ---
 
 ## 🧰 Resources
