@@ -279,7 +279,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 4. **Rethinking with Retrieval: Faithful Large Language Model Inference.**
 
-   *Hangfeng He, Hongming Zhang, Dan Roth.* [[abs](https://arxiv.org/abs/2301.00303)], 2022.12
+   *Hangfeng He, Hongming Zhang, Dan Roth.* [[abs](https://arxiv.org/abs/2301.00303)], 2023.1
 
 #### Others
 
