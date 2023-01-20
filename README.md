@@ -295,6 +295,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[abs](https://arxiv.org/abs/2210.11416)], 2022.10
 
+4. **See, Think, Confirm: Interative Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning.**
+
+   *Zhenfang Chen, Qinhong Zhou, Yikang Shen, Yining Hong, Hao Zhang, Chuang Gan.* [[abs](https://arxiv.org/abs/2301.05226)], 2023.1
+
 ### Analysis
 
 1. **Can language models learn from explanations in context?**
@@ -373,6 +377,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 - **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**: a central, open resource for data and tools related to chain-of-thought reasoning in LLMs. 
 - **[LangChain](https://github.com/hwchase17/langchain)**: a library designed to help developers build applications using LLMs combined with other sources of computation or knowledge.
 - **[LogiTorch](https://github.com/LogiTorch/logitorch)**: a PyTorch-based library for logical reasoning on natural language.
+- **[$\lambda$prompt](https://github.com/approximatelabs/lambdaprompt)**: a library that allows for building a full large LM-based prompt machines, including ones that self-edit to correct and even self-write their own execution code.
 
 ---
 
