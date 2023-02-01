@@ -263,6 +263,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[abs](https://arxiv.org/abs/2212.10071)], 2022.12
 
+9. **Specializing Smaller Language Models towards Multi-Step Reasoning.**
+
+    *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[abs](https://arxiv.org/abs/2301.12726)], 2023.1
+
 ##### Explicit Knowledge
 
 1. **LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning.**
