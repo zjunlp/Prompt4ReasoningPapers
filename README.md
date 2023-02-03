@@ -226,6 +226,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[abs](https://arxiv.org/abs/2211.12588)], 2022.11
+   
+4. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning.**
+
+   *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2301.13808)], 2023.02
 
 #### Knowledge Enhanced Reasoning
 
