@@ -164,6 +164,14 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 12. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes.**
 
     *Justin Reppert, Ben Rachbach, Charlie George, Luke Stebbing, Jungwon Byun, Maggie Appleton, Andreas Stuhlmüller.* [[abs](https://arxiv.org/abs/2301.01751)], 2023.1
+    
+13. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.**
+
+    *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
+
+14. **Multimodal Chain-of-Thought Reasoning in Language Models.**
+
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[abs](https://arxiv.org/abs/2302.00923)], 2023.2
 
 ##### Process Optimization
 
@@ -194,6 +202,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 4. **Large Language Models are reasoners with Self-Verification.**
 
    *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
+
+5. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.**
+
+    *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
 
 ###### Iterative-Optimization
 
@@ -226,10 +238,14 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[abs](https://arxiv.org/abs/2211.12588)], 2022.11
-   
-4. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning.**
 
-   *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2301.13808)], 2023.02
+4. **Faithful Chain-of-Thought Reasoning.**
+
+   *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch.* [[abs](https://arxiv.org/abs/2301.13379)], 2023.1
+
+5. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning.**
+
+   *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2301.13808)], 2023.2
 
 #### Knowledge Enhanced Reasoning
 
@@ -364,6 +380,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 14. **Dissociating language and thought in large language models: a cognitive perspective.**
 
     *Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko.* [[abs](https://arxiv.org/abs/2301.06627)], 2023.1
+
+15. **Large Language Models Can Be Easily Distracted by Irrelevant Context.**
+
+    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou.* [[abs](https://arxiv.org/abs/2302.00093)], 2023.2
 
 ---
 
