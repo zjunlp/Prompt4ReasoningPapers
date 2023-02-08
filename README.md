@@ -66,6 +66,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 4. **A Survey for In-context Learning.**
 
    *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui.* [[abs](https://arxiv.org/abs/2301.00234)], 2022.12
+   
+5. **Knowledge-enhanced Neural Machine Reasoning: A Review.**
+
+   *Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, Guangji Bai, Jian Pei, Haifeng Chen, Liang Zhao.* [[abs](https://arxiv.org/abs/2302.02093)], 2023.2
 
 ### Methods
 
