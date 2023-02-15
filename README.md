@@ -318,12 +318,16 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
+   
+3. **Multimodal Analogical Reasoning over Knowledge Graphs.**
 
-3. **Scaling Instruction-Finetuned Language Models.**
+   *Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen.* [[abs](https://arxiv.org/abs/2210.00312)], 2022.10
+
+4. **Scaling Instruction-Finetuned Language Models.**
 
    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[abs](https://arxiv.org/abs/2210.11416)], 2022.10
 
-4. **See, Think, Confirm: Interative Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning.**
+5. **See, Think, Confirm: Interative Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning.**
 
    *Zhenfang Chen, Qinhong Zhou, Yikang Shen, Yining Hong, Hao Zhang, Chuang Gan.* [[abs](https://arxiv.org/abs/2301.05226)], 2023.1
 
