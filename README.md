@@ -58,18 +58,22 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **Towards Reasoning in Large Language Models: A Survey.**
 
    *Jie Huang, Kevin Chen-Chuan Chang.* [[abs](https://arxiv.org/abs/2212.10403)], 2022.12
-   
+
 3. **A Survey of Deep Learning for Mathematical Reasoning.**
 
    *Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang.* [[abs](https://arxiv.org/abs/2212.10535)], 2022.12
-   
+
 4. **A Survey for In-context Learning.**
 
    *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui.* [[abs](https://arxiv.org/abs/2301.00234)], 2022.12
-   
+
 5. **Knowledge-enhanced Neural Machine Reasoning: A Review.**
 
    *Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, Guangji Bai, Jian Pei, Haifeng Chen, Liang Zhao.* [[abs](https://arxiv.org/abs/2302.02093)], 2023.2
+
+6. **Augmented Language Models: a Survey.**
+
+   *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom.* [[abs](https://arxiv.org/abs/2302.07842)], 2023.2
 
 ### Methods
 
