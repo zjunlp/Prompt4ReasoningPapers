@@ -124,6 +124,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi.* [[abs](https://arxiv.org/abs/2211.09066)], 2022.11
 
+11. **Active Prompting with Chain-of-Thought for Large Language Models.**
+
+     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.02
+
 ###### Multi-Stage
 
 1. **Iteratively Prompt Pre-trained Language Models for Chain of Thought.**
@@ -178,10 +182,6 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
 
-14. **Multimodal Chain-of-Thought Reasoning in Language Models.**
-
-    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[abs](https://arxiv.org/abs/2302.00923)], 2023.2
-
 ##### Process Optimization
 
 ###### Self-Optimization
@@ -212,10 +212,6 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
 
-5. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.**
-
-    *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
-
 ###### Iterative-Optimization
 
 1. **STaR: Bootstrapping Reasoning With Reasoning.**
@@ -243,7 +239,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **PAL: Program-aided Language Models.**
 
    *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig.* [[abs](https://arxiv.org/abs/2211.10435)], 2022.11
-   
+
 3. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[abs](https://arxiv.org/abs/2211.12588)], 2022.11
@@ -254,7 +250,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 5. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning.**
 
-   *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2301.13808)], 2023.2
+   *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2301.13808)], 2023.1
+
+6. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.**
+
+   *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
 
 #### Knowledge Enhanced Reasoning
 
@@ -323,7 +323,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**
 
    *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.09513)], 2022.9
-   
+
 3. **Multimodal Analogical Reasoning over Knowledge Graphs.**
 
    *Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen.* [[abs](https://arxiv.org/abs/2210.00312)], 2022.10
@@ -335,6 +335,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 5. **See, Think, Confirm: Interative Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning.**
 
    *Zhenfang Chen, Qinhong Zhou, Yikang Shen, Yining Hong, Hao Zhang, Chuang Gan.* [[abs](https://arxiv.org/abs/2301.05226)], 2023.1
+
+6. **Multimodal Chain-of-Thought Reasoning in Language Models.**
+
+   *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[abs](https://arxiv.org/abs/2302.00923)], 2023.2
 
 ### Analysis
 
