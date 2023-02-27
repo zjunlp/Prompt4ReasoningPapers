@@ -126,7 +126,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 11. **Active Prompting with Chain-of-Thought for Large Language Models.**
 
-     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.02
+      *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
+
+12. **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.**
+
+     *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
 
 ###### Multi-Stage
 
