@@ -427,11 +427,12 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 ### Tools
 
-- **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**: a central, open resource for data and tools related to chain-of-thought reasoning in LLMs. 
-- **[LangChain](https://github.com/hwchase17/langchain)**: a library designed to help developers build applications using LLMs combined with other sources of computation or knowledge.
-- **[LogiTorch](https://github.com/LogiTorch/logitorch)**: a PyTorch-based library for logical reasoning on natural language.
-- **[λprompt](https://github.com/approximatelabs/lambdaprompt)**: a library that allows for building a full large LM-based prompt machines, including ones that self-edit to correct and even self-write their own execution code.
+- **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**: A central, open resource for data and tools related to chain-of-thought reasoning in LLMs. 
+- **[LangChain](https://github.com/hwchase17/langchain)**: A library designed to help developers build applications using LLMs combined with other sources of computation or knowledge.
+- **[LogiTorch](https://github.com/LogiTorch/logitorch)**: A PyTorch-based library for logical reasoning on natural language.
+- **[λprompt](https://github.com/approximatelabs/lambdaprompt)**: A library that allows for building a full large LM-based prompt machines, including ones that self-edit to correct and even self-write their own execution code.
 - **[Promptify](https://github.com/promptslab/Promptify)**: Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify.
+- **[MiniChain](https://github.com/srush/MiniChain)**: A tiny library for large language models.
 
 ---
 
