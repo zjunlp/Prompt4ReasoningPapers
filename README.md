@@ -348,6 +348,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[abs](https://arxiv.org/abs/2302.00923)], 2023.2
 
+7. **Language Is not All You Need: Aligning Perception with Language Models.**
+
+   *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv,  Lei Cui, Owais Khan Mohammed, Qiang Liu,  Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei.* [[abs](https://arxiv.org/abs/2302.14045)], 2023.2
+
 ### Analysis
 
 1. **Can language models learn from explanations in context?**
