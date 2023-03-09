@@ -352,6 +352,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv,  Lei Cui, Owais Khan Mohammed, Qiang Liu,  Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei.* [[abs](https://arxiv.org/abs/2302.14045)], 2023.2
 
+8. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.**
+
+   *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* [[abs](https://arxiv.org/abs/2303.04671)], 2023.3
+
 ### Analysis
 
 1. **Can language models learn from explanations in context?**
