@@ -6,7 +6,7 @@
 
 ## 🔔 News
 
-- **2023-2-19 We upload a [tutorial](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf) of our survey paper to help you learn more about reasoning with language model prompting.**
+- **2023-2-19 We upload a [tutorial](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf) of our survey paper to help you learn more about reasoning with language model prompting. (attached with a [video](https://www.techbeat.net/talk-info?id=756) of the tutorial)**
 - **2022-12-19  We release a new survey paper:"[Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
 - **2022-09-14 We create this repository to maintain a paper list on *Reasoning with Language Model Prompting*.**
 
