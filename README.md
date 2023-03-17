@@ -185,6 +185,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 13. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.**
 
     *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
+    
+14. **ART: Automatic multi-step reasoning and tool-use for large language models.**
+
+    *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro.* [[abs](https://arxiv.org/abs/2303.09014)], 2023.3
 
 ##### Process Optimization
 
