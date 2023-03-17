@@ -364,6 +364,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* [[abs](https://arxiv.org/abs/2303.04671)], 2023.3
 
+9. **ViperGPT: Visual Inference via Python Execution for Reasoning.**
+
+   *Dídac Surís, Sachit Menon, Carl Vondrick.* [[abs](https://arxiv.org/abs/2303.08128)], 2023.3
+
 ### Analysis
 
 1. **Can language models learn from explanations in context?**
