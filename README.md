@@ -131,6 +131,15 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 12. **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.**
 
      *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
+     
+13. **A prompt pattern catalog to enhance prompt engineering with chatgpt.**
+
+     *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
+     
+14. **ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, and Software Design.**
+
+     *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3     
+     
 
 ###### Multi-Stage
 
