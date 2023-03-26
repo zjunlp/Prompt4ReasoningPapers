@@ -29,6 +29,7 @@
       - [External Engine](#external-engine)
         - [Physical Simulator](#physical-simulator)
         - [Code Interpreter](#code-interpreter)
+        - [Tool Learning](#tool-learning)
     - [Knowledge Enhanced Reasoning](#knowledge-enhanced-reasoning)
       - [Implicit Knowledge](#implicit-knowledge)
       - [Explicit Knowledge](#explicit-knowledge)
@@ -190,14 +191,6 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 12. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes.**
 
     *Justin Reppert, Ben Rachbach, Charlie George, Luke Stebbing, Jungwon Byun, Maggie Appleton, Andreas Stuhlmüller.* [[abs](https://arxiv.org/abs/2301.01751)], 2023.1
-    
-13. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.**
-
-    *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2302.00618)], 2023.2
-    
-14. **ART: Automatic multi-step reasoning and tool-use for large language models.**
-
-    *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro.* [[abs](https://arxiv.org/abs/2303.09014)], 2023.3
 
 ##### Process Optimization
 
@@ -276,6 +269,16 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 7. **MathPrompter: Mathematical Reasoning Using Large Language Models.**
 
    *Shima Imani, Liang Du, Harsh Shrivastava.* [[abs](https://arxiv.org/abs/2303.05398)], 2023.3
+
+###### Tool Learning
+
+1. **Toolformer: Language Models Can Teach Themselves to Use Tools.**
+
+   *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom.* [[abs](https://arxiv.org/abs/2302.04761)], 2023.2
+
+2. **ART: Automatic multi-step reasoning and tool-use for large language models.**
+
+   *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro.* [[abs](https://arxiv.org/abs/2303.09014)], 2023.3
 
 #### Knowledge Enhanced Reasoning
 
@@ -379,7 +382,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 10. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action.**
 
-   *Zhengyuan Yang, Linjie Li , Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[abs](https://arxiv.org/abs/2303.11381)], 2023.3
+    *Zhengyuan Yang, Linjie Li , Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[abs](https://arxiv.org/abs/2303.11381)], 2023.3
 
 ### Analysis
 
