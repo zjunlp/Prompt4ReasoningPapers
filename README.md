@@ -78,6 +78,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom.* [[abs](https://arxiv.org/abs/2302.07842)], 2023.2
 
+7. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.**
+
+   *Renze Lou, Kai Zhang, Wenpeng Yin.* [[abs](https://arxiv.org/abs/2303.10475)], 2023.3
+
 ### Methods
 
 #### Strategy Enhanced Reasoning
