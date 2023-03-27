@@ -78,7 +78,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom.* [[abs](https://arxiv.org/abs/2302.07842)], 2023.2
 
-7. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.**
+7. **The Life Cycle of Knowledge in Big Language Models: A Survey.**
+
+   *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun.* [[abs](https://arxiv.org/abs/2303.07616)], 2023.3
+
+8. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.**
 
    *Renze Lou, Kai Zhang, Wenpeng Yin.* [[abs](https://arxiv.org/abs/2303.10475)], 2023.3
 
@@ -196,6 +200,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 12. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes.**
 
     *Justin Reppert, Ben Rachbach, Charlie George, Luke Stebbing, Jungwon Byun, Maggie Appleton, Andreas Stuhlmüller.* [[abs](https://arxiv.org/abs/2301.01751)], 2023.1
+
+13. **Reflexion: An Autonomous Agent with Dynamic Memory and Self-reflection.**
+
+    *Noah Shinn, Beck Labash, Ashwin Gopinath.* [[abs](https://arxiv.org/abs/2303.11366)], 2023.3
 
 ##### Process Optimization
 
