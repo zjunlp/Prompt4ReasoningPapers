@@ -85,6 +85,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 8. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.**
 
    *Renze Lou, Kai Zhang, Wenpeng Yin.* [[abs](https://arxiv.org/abs/2303.10475)], 2023.3
+   
+9. **Nature Language Reasoning, A Survey.**
+
+   *Fei Yu, Hongbo Zhang, Benyou Wang.* [[abs](https://arxiv.org/abs/2303.14725)], 2023.3
 
 ### Methods
 
