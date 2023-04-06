@@ -244,10 +244,14 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 1. **STaR: Bootstrapping Reasoning With Reasoning.**
 
    *Eric Zelikman, Yuhuai Wu, Noah D. Goodman.* [[abs](https://arxiv.org/abs/2203.14465)], 2022.3
-   
+
 2. **Large Language Models Can Self-Improve.**
 
    *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* [[abs](https://arxiv.org/abs/2210.11610)], 2022.10
+
+3. **Self-Refine: Iterative Refinement with Self-Feedback.**
+
+   *Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark.* [[abs](https://arxiv.org/abs/2303.17651)], 2023.3
 
 ##### External Engine
 
