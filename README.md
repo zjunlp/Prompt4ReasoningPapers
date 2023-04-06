@@ -221,6 +221,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Xi Ye, Greg Durrett.* [[abs](https://arxiv.org/abs/2205.03401)], 2022.5
 
+3. **REFINER: Reasoning Feedback on Intermediate Representations.**
+
+   *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[abs](https://arxiv.org/abs/2304.01904)], 2023.4
+
 ###### Ensemble-Optimization
 
 1. **Self-Consistency Improves Chain of Thought Reasoning in Language Models.**
@@ -470,6 +474,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 16. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[abs](https://arxiv.org/abs/2302.04023)], 2023.2
+
+17. **ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.**
+
+    *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu, Ben He.* [[abs](https://arxiv.org/abs/2303.16421)], 2023.3
 
 ---
 
