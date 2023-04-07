@@ -504,6 +504,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 - **[MiniChain](https://github.com/srush/MiniChain)**: A tiny library for large language models.
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)**: A project that provides a central interface to connect your LLM's with external data.
 - **[EasyInstruct](https://github.com/zjunlp/EasyInstruct)**: A package for instructing Large Language Models (LLMs) like GPT-3 in your research experiments. It is designed to be easy to use and easy to extend.
+- **[MiniChain](https://github.com/srush/MiniChain)**: A tiny library for coding with large language models that aims to implement the core prompt chaining functionality.
 
 ---
 
