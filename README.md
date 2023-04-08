@@ -501,10 +501,9 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 - **[LogiTorch](https://github.com/LogiTorch/logitorch)**: A PyTorch-based library for logical reasoning on natural language.
 - **[λprompt](https://github.com/approximatelabs/lambdaprompt)**: A library that allows for building a full large LM-based prompt machines, including ones that self-edit to correct and even self-write their own execution code.
 - **[Promptify](https://github.com/promptslab/Promptify)**: Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify.
-- **[MiniChain](https://github.com/srush/MiniChain)**: A tiny library for large language models.
+- **[MiniChain](https://github.com/srush/MiniChain)**: A tiny library for coding with large language models that aims to implement the core prompt chaining functionality.
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)**: A project that provides a central interface to connect your LLM's with external data.
 - **[EasyInstruct](https://github.com/zjunlp/EasyInstruct)**: A package for instructing Large Language Models (LLMs) like GPT-3 in your research experiments. It is designed to be easy to use and easy to extend.
-- **[MiniChain](https://github.com/srush/MiniChain)**: A tiny library for coding with large language models that aims to implement the core prompt chaining functionality.
 
 ---
 
