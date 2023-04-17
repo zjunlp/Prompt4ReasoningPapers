@@ -475,13 +475,13 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[abs](https://arxiv.org/abs/2302.04023)], 2023.2
 
-17. **Why think step-by-step? Reasoning emerges from the locality of experience.**
-
-    *Ben Prystawski, Noah D. Goodman.* [[abs](https://arxiv.org/abs/2304.03843)], 2023.4
-
-18. **ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.**
+17. **ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.**
 
     *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu, Ben He.* [[abs](https://arxiv.org/abs/2303.16421)], 2023.3
+
+18. **Why think step-by-step? Reasoning emerges from the locality of experience.**
+
+    *Ben Prystawski, Noah D. Goodman.* [[abs](https://arxiv.org/abs/2304.03843)], 2023.4
 
 ---
 
