@@ -309,6 +309,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro.* [[abs](https://arxiv.org/abs/2303.09014)], 2023.3
 
+3. **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models.**
+
+   *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao.* [[abs](https://arxiv.org/abs/2304.09842)], 2023.4
+
 #### Knowledge Enhanced Reasoning
 
 ##### Implicit Knowledge
