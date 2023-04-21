@@ -86,13 +86,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Renze Lou, Kai Zhang, Wenpeng Yin.* [[abs](https://arxiv.org/abs/2303.10475)], 2023.3
 
-9. **Nature Language Reasoning, A Survey.**
+9. **Logical Reasoning over Natural Language as Knowledge Representation: A Survey.**
+
+   *Zonglin Yang, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria.* [[abs](https://arxiv.org/abs/2303.12023)], 2023.3
+
+10. **Nature Language Reasoning, A Survey.**
 
    *Fei Yu, Hongbo Zhang, Benyou Wang.* [[abs](https://arxiv.org/abs/2303.14725)], 2023.3
 
-10. **Tool Learning with Foundation Models.**
+11. **Tool Learning with Foundation Models.**
 
-   *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2304.08354)], 2023.4
+    Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2304.08354)], 2023.4
 
 ### Methods
 
