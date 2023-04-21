@@ -92,7 +92,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 10. **Nature Language Reasoning, A Survey.**
 
-   *Fei Yu, Hongbo Zhang, Benyou Wang.* [[abs](https://arxiv.org/abs/2303.14725)], 2023.3
+    *Fei Yu, Hongbo Zhang, Benyou Wang.* [[abs](https://arxiv.org/abs/2303.14725)], 2023.3
 
 11. **Tool Learning with Foundation Models.**
 
