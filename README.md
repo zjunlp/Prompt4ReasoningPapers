@@ -94,7 +94,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Fei Yu, Hongbo Zhang, Benyou Wang.* [[abs](https://arxiv.org/abs/2303.14725)], 2023.3
 
-11. **Tool Learning with Foundation Models.**
+11. **A Survey of Large Language Models.**
+
+    *Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2303.18223)], 2023.3
+
+12. **Tool Learning with Foundation Models.**
 
     *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2304.08354)], 2023.4
 
@@ -250,6 +254,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 4. **Large Language Models are reasoners with Self-Verification.**
 
    *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2212.09561)], 2022.12
+
+5. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought.**
+
+   *Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch, Jonathan Berant.* [[abs](https://arxiv.org/abs/2304.13007)], 2023.4
 
 ###### Iterative-Optimization
 
@@ -420,6 +428,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 10. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action.**
 
     *Zhengyuan Yang, Linjie Li , Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[abs](https://arxiv.org/abs/2303.11381)], 2023.3
+
+11. **Boosting Theory-of-Mind Performance in Large Language Models via Prompting.**
+
+    *Shima Rahimi Moghaddam, Christopher J. Honey.* [[abs](https://arxiv.org/abs/2304.11490)], 2023.4
 
 ### Analysis
 
