@@ -152,20 +152,23 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 11. **Active Prompting with Chain-of-Thought for Large Language Models.**
 
-      *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
+       *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
 
 12. **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.**
 
-     *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
-    
+      *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
+
 13. **A prompt pattern catalog to enhance prompt engineering with chatgpt.**
 
-     *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
-    
-14. **ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, and Software Design.**
+      *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
 
-     *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3     
-    
+14. **ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, anLearning to Reason and Memorize with Self-Notesd Software Design.**
+
+      *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3
+
+15. **Learning to Reason and Memorize with Self-Notes.**
+
+     *Jack lanchantin, Shubham Toshniwal, Jason Weston, Arthur Szlam, Sainbayar Sukhbaatar.* [[abs](https://arxiv.org/abs/2305.00833)], 2023.5
 
 ###### Multi-Stage
 
@@ -217,10 +220,6 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Justin Reppert, Ben Rachbach, Charlie George, Luke Stebbing, Jungwon Byun, Maggie Appleton, Andreas Stuhlmüller.* [[abs](https://arxiv.org/abs/2301.01751)], 2023.1
 
-13. **Reflexion: An Autonomous Agent with Dynamic Memory and Self-reflection.**
-
-    *Noah Shinn, Beck Labash, Ashwin Gopinath.* [[abs](https://arxiv.org/abs/2303.11366)], 2023.3
-
 ##### Process Optimization
 
 ###### Self-Optimization
@@ -232,10 +231,6 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 2. **The Unreliability of Explanations in Few-Shot In-Context Learning.**
 
    *Xi Ye, Greg Durrett.* [[abs](https://arxiv.org/abs/2205.03401)], 2022.5
-
-3. **REFINER: Reasoning Feedback on Intermediate Representations.**
-
-   *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[abs](https://arxiv.org/abs/2304.01904)], 2023.4
 
 ###### Ensemble-Optimization
 
@@ -269,9 +264,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* [[abs](https://arxiv.org/abs/2210.11610)], 2022.10
 
-3. **Self-Refine: Iterative Refinement with Self-Feedback.**
+3. **Reflexion: An Autonomous Agent with Dynamic Memory and Self-reflection.**
+
+   *Noah Shinn, Beck Labash, Ashwin Gopinath.* [[abs](https://arxiv.org/abs/2303.11366)], 2023.3
+
+4. **Self-Refine: Iterative Refinement with Self-Feedback.**
 
    *Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark.* [[abs](https://arxiv.org/abs/2303.17651)], 2023.3
+
+5. **REFINER: Reasoning Feedback on Intermediate Representations.**
+
+   *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[abs](https://arxiv.org/abs/2304.01904)], 2023.4
 
 ##### External Engine
 
