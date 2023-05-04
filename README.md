@@ -152,23 +152,23 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 11. **Active Prompting with Chain-of-Thought for Large Language Models.**
 
-       *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
+    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
 
 12. **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.**
 
-      *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
+    *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
 
 13. **A prompt pattern catalog to enhance prompt engineering with chatgpt.**
 
-      *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
+    *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
 
 14. **ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, anLearning to Reason and Memorize with Self-Notesd Software Design.**
 
-      *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3
+    *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3
 
 15. **Learning to Reason and Memorize with Self-Notes.**
 
-     *Jack lanchantin, Shubham Toshniwal, Jason Weston, Arthur Szlam, Sainbayar Sukhbaatar.* [[abs](https://arxiv.org/abs/2305.00833)], 2023.5
+    *Jack lanchantin, Shubham Toshniwal, Jason Weston, Arthur Szlam, Sainbayar Sukhbaatar.* [[abs](https://arxiv.org/abs/2305.00833)], 2023.5
 
 ###### Multi-Stage
 
