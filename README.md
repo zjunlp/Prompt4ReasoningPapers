@@ -152,23 +152,27 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 11. **Active Prompting with Chain-of-Thought for Large Language Models.**
 
-    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
+     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12246)], 2023.2
 
 12. **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.**
 
-    *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
+     *KaShun Shum, Shizhe Diao, Tong Zhang.* [[abs](https://arxiv.org/abs/2302.12822)], 2023.2
 
 13. **A prompt pattern catalog to enhance prompt engineering with chatgpt.**
 
-    *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
+     *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2302.11382)], 2023.2
 
 14. **ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, anLearning to Reason and Memorize with Self-Notesd Software Design.**
 
-    *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3
+     *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C Schmidt.* [[abs](https://arxiv.org/abs/2303.07839)], 2023.3
 
 15. **Learning to Reason and Memorize with Self-Notes.**
 
-    *Jack lanchantin, Shubham Toshniwal, Jason Weston, Arthur Szlam, Sainbayar Sukhbaatar.* [[abs](https://arxiv.org/abs/2305.00833)], 2023.5
+     *Jack lanchantin, Shubham Toshniwal, Jason Weston, Arthur Szlam, Sainbayar Sukhbaatar.* [[abs](https://arxiv.org/abs/2305.00833)], 2023.5
+
+16. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models.**
+
+     *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], 2023.5
 
 ###### Multi-Stage
 
@@ -254,6 +258,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch, Jonathan Berant.* [[abs](https://arxiv.org/abs/2304.13007)], 2023.4
 
+6. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models.**
+
+   *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10601)], 2023.5
+
 ###### Iterative-Optimization
 
 1. **STaR: Bootstrapping Reasoning With Reasoning.**
@@ -314,6 +322,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Shima Imani, Liang Du, Harsh Shrivastava.* [[abs](https://arxiv.org/abs/2303.05398)], 2023.3
 
+8. **Automatic Model Selection with Large Language Models for Reasoning.**
+
+   *Xu Zhao, Yuxi Xie, Kenji Kawaguchi, Junxian He, Qizhe Xie.* [[abs](https://arxiv.org/abs/2305.14333)], 2023.5
+
 ###### Tool Learning
 
 1. **Toolformer: Language Models Can Teach Themselves to Use Tools.**
@@ -327,6 +339,18 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models.**
 
    *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao.* [[abs](https://arxiv.org/abs/2304.09842)], 2023.4
+
+4. **Making Language Models Better Tool Learners with Execution Feedback.**
+
+   *Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13068)], 2023.5
+
+5. **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.**
+
+   *Cheng Qian, Chi Han, Yi R. Fung, Yujia Qin, Zhiyuan Liu, Heng Ji.* [[abs](https://arxiv.org/abs/2305.14318)], 2023.5
+
+6. **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models.**
+
+   *Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.14323)], 2023.5
 
 #### Knowledge Enhanced Reasoning
 
@@ -351,11 +375,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 5. **TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering.**
 
     *Yueqing Sun, Yu Zhang, Le Qi, Qi Shi.* [[abs](https://arxiv.org/abs/2211.13515)], 2022.11
-    
+
 6. **Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.**
 
     *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2212.00193)], 2022.12
-    
+
 7. **Teaching Small Language Models to Reason.**
 
     *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[abs](https://arxiv.org/abs/2212.08410)], 2022.12
@@ -367,6 +391,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 9. **Specializing Smaller Language Models towards Multi-Step Reasoning.**
 
     *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[abs](https://arxiv.org/abs/2301.12726)], 2023.1
+
+10. **PaD: Program-aided Distillation Specializes Large Models in Reasoning.**
+
+    *Xuekai Zhu, Biqing Qi, Kaiyan Zhang, Xingwei Long, Bowen Zhou.* [[abs](https://arxiv.org/abs/2305.13888)], 2023.5
 
 ##### Explicit Knowledge
 
@@ -389,6 +417,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 5. **Rethinking with Retrieval: Faithful Large Language Model Inference.**
 
    *Hangfeng He, Hongming Zhang, Dan Roth.* [[abs](https://arxiv.org/abs/2301.00303)], 2023.1
+
+6. **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework.**
+
+   *Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing.* [[abs](https://arxiv.org/abs/2305.03268)], 2023.5
 
 #### Others
 
