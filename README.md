@@ -340,15 +340,19 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao.* [[abs](https://arxiv.org/abs/2304.09842)], 2023.4
 
-4. **Making Language Models Better Tool Learners with Execution Feedback.**
+4. **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.**
+
+   *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2305.11738)], 2023.5
+
+5. **Making Language Models Better Tool Learners with Execution Feedback.**
 
    *Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13068)], 2023.5
 
-5. **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.**
+6. **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.**
 
    *Cheng Qian, Chi Han, Yi R. Fung, Yujia Qin, Zhiyuan Liu, Heng Ji.* [[abs](https://arxiv.org/abs/2305.14318)], 2023.5
 
-6. **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models.**
+7. **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models.**
 
    *Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.14323)], 2023.5
 
