@@ -248,7 +248,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 3. **Discriminator-Guided Multi-step Reasoning with Language Models.**
 
    *Muhammad Khalifa, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Lu Wang.* [[abs](https://arxiv.org/abs/2305.14934)], 2023.5
+   
+4. **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought.**
 
+   *Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, Heng Ji.* [[abs](https://arxiv.org/abs/2305.11499)], 2023.5
+   
 ###### Ensemble-Optimization
 
 1. **Self-Consistency Improves Chain of Thought Reasoning in Language Models.**
