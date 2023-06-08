@@ -301,6 +301,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[abs](https://arxiv.org/abs/2304.01904)], 2023.4
 
+6. **Reasoning with Language Model is Planning with World Model**
+
+   *Shibo Hao\*, Yi Gu\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu* [[abs](https://arxiv.org/abs/2305.14992)], 2023.5
+
 ##### External Engine
 
 ###### Physical Simulator
@@ -380,6 +384,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 8. **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting.**
 
    *Tatsuro Inaba, Hirokazu Kiyomaru, Fei Cheng, Sadao Kurohashi.* [[abs](https://arxiv.org/abs/2305.16896)], 2023.5
+   
+9. **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**
+
+   *Shibo Hao, Tianyang Liu, Zhen Wang, Zhiting Hu* [[abs](https://arxiv.org/abs/2305.11554)], 2023.5
 
 #### Knowledge Enhanced Reasoning
 
