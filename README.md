@@ -6,6 +6,7 @@
 
 ## 🔔 News
 
+- **2023-6-19 We open-source [KnowLM](https://github.com/zjunlp/KnowLM), a knowledgeable large language model framework with pre-training and instruction fine-tuning code (supports multi-machine multi-GPU setup) and various LLMs**.
 - **2023-3-27 We release [EasyInstruct](https://github.com/zjunlp/EasyInstruct), a package for instructing Large Language Models (LLMs) like ChatGPT in your research experiments. It is designed to be easy to use and easy to extend!**
 - **2023-2-19 We upload a [tutorial](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf) of our survey paper to help you learn more about reasoning with language model prompting (Attached with a [video](https://www.techbeat.net/talk-info?id=756) (Chinese) of the tutorial).**
 - **2022-12-19  We release a new survey paper:"[Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
