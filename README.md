@@ -279,6 +279,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10601)], 2023.5
 
+7. **Improving Factuality and Reasoning in Language Models through Multiagent Debate.**
+
+   *Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch.* [[abs](https://arxiv.org/abs/2305.14325)], 2023.5
+
 ###### Iterative-Optimization
 
 1. **STaR: Bootstrapping Reasoning With Reasoning.**
