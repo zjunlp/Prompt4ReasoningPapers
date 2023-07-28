@@ -634,11 +634,25 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 If you find this survey useful for your research, please consider citing
 
 ```
-@article{qiao2022reasoning,
-  title={Reasoning with Language Model Prompting: A Survey},
-  author={Qiao, Shuofei and Ou, Yixin and Zhang, Ningyu and Chen, Xiang and Yao, Yunzhi and Deng, Shumin and Tan, Chuanqi and Huang, Fei and Chen, Huajun},
-  journal={arXiv preprint arXiv:2212.09597},
-  year={2022}
+@inproceedings{qiao-etal-2023-reasoning,
+    title = "Reasoning with Language Model Prompting: A Survey",
+    author = "Qiao, Shuofei  and
+      Ou, Yixin  and
+      Zhang, Ningyu  and
+      Chen, Xiang  and
+      Yao, Yunzhi  and
+      Deng, Shumin  and
+      Tan, Chuanqi  and
+      Huang, Fei  and
+      Chen, Huajun",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.294",
+    pages = "5368--5393",
+    abstract = "Reasoning, as an essential ability for complex problem-solving, can provide back-end support for various real-world applications, such as medical diagnosis, negotiation, etc. This paper provides a comprehensive survey of cutting-edge research on reasoning with language model prompting. We introduce research works with comparisons and summaries and provide systematic resources to help beginners. We also discuss the potential reasons for emerging such reasoning abilities and highlight future research directions. Resources are available at https://github.com/zjunlp/Prompt4ReasoningPapers (updated periodically).",
 }
 ```
 
