@@ -6,7 +6,7 @@
 
 ## 🔔 News
 
-- **2023-7-12 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use framework to edit Large Language Models.**
+- **2023-7-12 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use knowledge editing framework for Large Language Models.**
 - **2023-6-19 We open-source [KnowLM](https://github.com/zjunlp/KnowLM), a knowledgeable large language model framework with pre-training and instruction fine-tuning code (supports multi-machine multi-GPU setup) and various LLMs**.
 - **2023-3-27 We release [EasyInstruct](https://github.com/zjunlp/EasyInstruct), a package for instructing Large Language Models (LLMs) like ChatGPT in your research experiments. It is designed to be easy to use and easy to extend!**
 - **2023-2-19 We upload a [tutorial](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf) of our survey paper to help you learn more about reasoning with language model prompting (Attached with a [video](https://www.techbeat.net/talk-info?id=756) (Chinese) of the tutorial).**
