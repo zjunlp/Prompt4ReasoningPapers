@@ -180,6 +180,12 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
      *Yao Yao, Zuchao Li, Hai Zhao.* [[abs](https://arxiv.org/abs/2305.16582)], 2023.5
 
+18. **Re-Reading Improves Reasoning in Language Models.**
+
+     *Xiaohan Xu, Chongyang Tao, Tao Shen, Can Xu, Hongbo Xu, Guodong Long, Jian-guang Lou.* [[abs](https://arxiv.org/abs/2309.06275)], 2023.9
+
+
+
 ###### Multi-Stage
 
 1. **Iteratively Prompt Pre-trained Language Models for Chain of Thought.**
