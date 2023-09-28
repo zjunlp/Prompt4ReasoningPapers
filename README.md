@@ -104,6 +104,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2304.08354)], 2023.4
 
+13. **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future.**
+
+    *Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu, Bing Qin, Ting Liu.* [[abs](https://arxiv.org/abs/2309.15402)], 2023.9
+
 ### Methods
 
 #### Strategy Enhanced Reasoning
