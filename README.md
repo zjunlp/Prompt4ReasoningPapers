@@ -294,6 +294,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch.* [[abs](https://arxiv.org/abs/2305.14325)], 2023.5
 
+8. **AutoMix: Automatically Mixing Language Models**
+
+   *Aman Madaan, Pranjal Aggarwal, Ankit Anand, Srividya Pranavi Potharaju, Swaroop Mishra, Pei Zhou, Aditya Gupta, Dheeraj Rajagopal, Karthik Kappaganthu, Yiming Yang, Shyam Upadhyay, Mausam, Manaal Faruqui.* [[abs](https://arxiv.org/abs/2310.12963)], 2023.9
+
 ###### Iterative-Optimization
 
 1. **STaR: Bootstrapping Reasoning With Reasoning.**
@@ -450,29 +454,34 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 ##### Explicit Knowledge
 
-1. **LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning.**
+1. **MemPrompt: Memory-assisted prompt editing to improve GPT-3 after deployment**
+   
+   *Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.* [[abs](https://arxiv.org/abs/2201.06009)], 2022.1
+   
+2. **LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning.**
 
    *Zhicheng Yang, Jinghui Qin, Jiaqi Chen, Liang Lin, Xiaodan Liang.* [[abs](https://arxiv.org/abs/2205.08232)], 2022.5
 
-2. **Selective Annotation Makes Language Models Better Few-Shot Learners.**
+3. **Selective Annotation Makes Language Models Better Few-Shot Learners.**
 
    *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu.* [[abs](https://arxiv.org/abs/2209.01975)], 2022.9
 
-3. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
+4. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
 
    *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan.* [[abs](https://arxiv.org/abs/2209.14610)], 2022.9
 
-4. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions.**
+5. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions.**
 
    *Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal.* [[abs](https://arxiv.org/abs/2212.10509)], 2022.12
 
-5. **Rethinking with Retrieval: Faithful Large Language Model Inference.**
+6. **Rethinking with Retrieval: Faithful Large Language Model Inference.**
 
    *Hangfeng He, Hongming Zhang, Dan Roth.* [[abs](https://arxiv.org/abs/2301.00303)], 2023.1
 
-6. **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework.**
+7. **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework.**
 
    *Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing.* [[abs](https://arxiv.org/abs/2305.03268)], 2023.5
+
 
 #### Others
 
