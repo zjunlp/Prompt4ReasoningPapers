@@ -551,57 +551,62 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Joel Jang, Seongheyon Ye, Minjoon Seo.* [[abs](https://arxiv.org/abs/2209.12711)], 2022.9
 
-6. **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.**
+6. **Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango**
+
+   *Aman Madaan, Amir Yazdanbakhsh.* [[abs](https://arxiv.org/abs/2209.07686)], 2022.9
+
+7. **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.**
 
    *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[abs](https://arxiv.org/abs/2210.09261)], 2022.10
 
-7. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
+8. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-thought.**
 
    *Abulhair Saparov, He He.* [[abs](https://arxiv.org/abs/2210.01240)], 2022.10
 
-8. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
+9. **Knowledge Unlearning for Mitigating Privacy Risks in Language Models.**
 
    *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo.* [[abs](https://arxiv.org/abs/2210.01504)], 2022.10
 
-9. **Emergent Analogical Reasoning in Large Language Models.**
+10. **Emergent Analogical Reasoning in Large Language Models.**
 
-   *Taylor Webb, Keith J. Holyoak, Hongjing Lu.* [[abs](https://arxiv.org/abs/2212.09196)], 2022.12
+    *Taylor Webb, Keith J. Holyoak, Hongjing Lu.* [[abs](https://arxiv.org/abs/2212.09196)], 2022.12
 
-10. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
+11. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
     *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun.* [[abs](https://arxiv.org/abs/2212.10001)], 2022.12
 
-11. **On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning.**
+12. **On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning.**
 
     *Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang.* [[abs](https://arxiv.org/abs/2212.08061)], 2022.12
 
-12. **Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model.**
+13. **Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model.**
 
     *Parishad BehnamGhader, Santiago Miret, Siva Reddy.* [[abs](https://arxiv.org/abs/2212.09146)], 2022.12
 
-13. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers.**
+14. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers.**
 
     *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei.* [[abs](https://arxiv.org/abs/2212.10559)], 2022.12
 
-14. **Dissociating language and thought in large language models: a cognitive perspective.**
+15. **Dissociating language and thought in large language models: a cognitive perspective.**
 
     *Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko.* [[abs](https://arxiv.org/abs/2301.06627)], 2023.1
 
-15. **Large Language Models Can Be Easily Distracted by Irrelevant Context.**
+16. **Large Language Models Can Be Easily Distracted by Irrelevant Context.**
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou.* [[abs](https://arxiv.org/abs/2302.00093)], 2023.2
 
-16. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
+17. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[abs](https://arxiv.org/abs/2302.04023)], 2023.2
 
-17. **ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.**
+18. **ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.**
 
     *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu, Ben He.* [[abs](https://arxiv.org/abs/2303.16421)], 2023.3
 
-18. **Why think step-by-step? Reasoning emerges from the locality of experience.**
+19. **Why think step-by-step? Reasoning emerges from the locality of experience.**
 
     *Ben Prystawski, Noah D. Goodman.* [[abs](https://arxiv.org/abs/2304.03843)], 2023.4
+
 
 ---
 
