@@ -108,7 +108,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu, Bing Qin, Ting Liu.* [[abs](https://arxiv.org/abs/2309.15402)], 2023.9
 
-14. **A Survey of Reasoning with Foundation ModelsConcepts, Methodologies, and Outlook.**
+14. **A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook.**
 
     *Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng, Yue Wu, Wenhai Wang, Junsong Chen, Zhangyue Yin, Xiaozhe Ren, Jie Fu, Junxian He, Wu Yuan, Qi Liu, Xihui Liu, Yu Li, Hao Dong, Yu Cheng, Ming Zhang, Pheng Ann Heng, Jifeng Dai, Ping Luo, Jingdong Wang, Ji-Rong Wen, Xipeng Qiu, Yike Guo, Hui Xiong, Qun Liu, Zhenguo Li.* [[abs](https://arxiv.org/abs/2312.11562)], 2023.12
 
