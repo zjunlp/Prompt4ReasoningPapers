@@ -6,6 +6,7 @@
 
 ## 🔔 News
 
+- **2024-01-03  We release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)! We are looking forward to any comments or discussions on this topic :)**
 - **2023-7-12 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use knowledge editing framework for Large Language Models.**
 - **2023-6-19 We open-source [KnowLM](https://github.com/zjunlp/KnowLM), a knowledgeable large language model framework with pre-training and instruction fine-tuning code (supports multi-machine multi-GPU setup) and various LLMs**.
 - **2023-3-27 We release [EasyInstruct](https://github.com/zjunlp/EasyInstruct), a package for instructing Large Language Models (LLMs) like ChatGPT in your research experiments. It is designed to be easy to use and easy to extend!**
