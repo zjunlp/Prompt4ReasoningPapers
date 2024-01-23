@@ -375,6 +375,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Yi Hu, Haotong Yang, Zhouchen Lin, Muhan Zhang.* [[abs](https://arxiv.org/abs/2305.18507)], 2023.5
 
+10. **The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code.**
+
+   *Xiao Liu, Da Yin, Chen Zhang, Yansong Feng, Dongyan Zhao.* [[abs](https://arxiv.org/abs/2305.19213)], 2023.5
+
 ###### Tool Learning
 
 1. **Toolformer: Language Models Can Teach Themselves to Use Tools.**
