@@ -379,6 +379,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Xiao Liu, Da Yin, Chen Zhang, Yansong Feng, Dongyan Zhao.* [[abs](https://arxiv.org/abs/2305.19213)], 2023.5
 
+11. **When Do Program-of-Thought Works for Reasoning?**
+
+   *Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen.* [[abs](https://arxiv.org/abs/2308.15452)], 2023.12
+
 ###### Tool Learning
 
 1. **Toolformer: Language Models Can Teach Themselves to Use Tools.**
