@@ -329,6 +329,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Shibo Hao\*, Yi Gu\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu* [[abs](https://arxiv.org/abs/2305.14992)], 2023.5
 
+7. **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic.**
+
+   *Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter.* [[abs](https://arxiv.org/abs/2309.13339)] [[code](https://github.com/xf-zhao/LoT)], 2024.2
+
 ##### External Engine
 
 ###### Physical Simulator
