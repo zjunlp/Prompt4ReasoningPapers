@@ -193,7 +193,9 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
      *Xiaohan Xu, Chongyang Tao, Tao Shen, Can Xu, Hongbo Xu, Guodong Long, Jian-guang Lou.* [[abs](https://arxiv.org/abs/2309.06275)], 2023.9
 
+19. **Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL.**
 
+    *Hao Sun, Alihan Huyuk, Mihaela van der Schaar.*[[abs](https://arxiv.org/abs/2309.06553)], 2023.9
 
 ###### Multi-Stage
 
