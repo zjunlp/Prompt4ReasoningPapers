@@ -306,6 +306,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Aman Madaan, Pranjal Aggarwal, Ankit Anand, Srividya Pranavi Potharaju, Swaroop Mishra, Pei Zhou, Aditya Gupta, Dheeraj Rajagopal, Karthik Kappaganthu, Yiming Yang, Shyam Upadhyay, Mausam, Manaal Faruqui.* [[abs](https://arxiv.org/abs/2310.12963)], 2023.9
 
+9. **Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up.** 
+
+    *Jiahao Yuan, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem.* [[abs](https://arxiv.org/abs/2410.12323)], [[code](https://github.com/Jiahao-Yuan/Reversal-of-Thought)], 2024.10
+
 ###### Iterative-Optimization
 
 1. **STaR: Bootstrapping Reasoning With Reasoning.**
