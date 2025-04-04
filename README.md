@@ -603,6 +603,18 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Xiaojun Xiao, Sen Shen, Qiming Bao, Hongfei Rong, Kairui Liu, Zhongsheng Wang, Jiamou Liu.* [[abs](https://arxiv.org/abs/2409.02119)], 2024.8
 
+17. **Natural Language Processing and Reasoning.**
+
+    *Qiming Bao, Michael Witbrock, Jiamou Liu.* [[abs](https://14h034160212.github.io/Qiming_Bao_IEEE_VTS_Natural_Language_Processing_Reasoning_Invited_Talk_Final.pdf)], 2022.8
+
+18. **Relating Blindsight and AI: A Review.**
+
+    *Joshua Bensemann, Qiming Bao, Gaël Gendron, Tim Hartill, Michael Witbrock.* [[abs](https://arxiv.org/pdf/2201.00616)], 2022.1
+
+19. **Developing And Assessing Language Models For Logical Reasoning Over Natural Language.**
+
+    *Qiming Bao.* [[abs](https://hdl.handle.net/2292/71735)], 2025.4
+
 ### Analysis
 
 1. **Can language models learn from explanations in context?**
