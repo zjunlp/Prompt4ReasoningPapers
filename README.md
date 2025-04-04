@@ -528,15 +528,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://openreview.net/forum?id=hli7A0ioiS_)], 2023.3
 
-9. **A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge.**
-
-   *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://openreview.net/forum?id=hli7A0ioiS_)], 2023.3
-
-10. **Enhancing Data Augmentation with Knowledge-Enriched Data Generation via Dynamic Prompt-Tuning Method.**
+9. **Enhancing Data Augmentation with Knowledge-Enriched Data Generation via Dynamic Prompt-Tuning Method.**
 
    *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://ieeexplore.ieee.org/abstract/document/10651072/)], 2020.03
    
-11. **HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention.**
+10. **HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention.**
 
    *Qiming Bao, Lin Ni, Jiamou Liu.* [[abs](https://arxiv.org/abs/2002.03140)], 2020.02
 
