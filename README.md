@@ -198,6 +198,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Hao Sun, Alihan Huyuk, Mihaela van der Schaar.*[[abs](https://arxiv.org/abs/2309.06553)], 2023.9
 
+20. **Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning.**
+
+    *Qiming Bao, Alex Peng, Zhenyun Deng, Wanjun Zhong, Gaël Gendron, Neşet Tan, Nathan Young, Yang Chen, Yonghua Zhu, Michael Witbrock, Jiamou Liu.* [[abs](https://aclanthology.org/2024.findings-acl.353/)], [[code](https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning)], 2024.8
+
+
 ###### Multi-Stage
 
 1. **Iteratively Prompt Pre-trained Language Models for Chain of Thought.**
@@ -251,6 +256,19 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 13. **Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement.**
 
     *Zhiheng Xi, Senjie Jin, Yuhao Zhou, Rui Zheng, Songyang Gao, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2305.14497)], 2023.5
+
+14. **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation.**
+
+    *Qiming Bao, Alex Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu.* [[abs](https://arxiv.org/abs/2207.14000)], [[code](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language)], 2022.8
+
+15. **Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models.**
+
+    *Qiming Bao, Juho Leinonen, Alex Peng, Wanjun Zhong, Timothy Pistotti, Alice Huang, Paul Denny, Michael Witbrock and Jiamou Liu.* [[abs](http://arxiv.org/abs/2309.10444)], [[code](https://github.com/Strong-AI-Lab/Explanation-Generation)], 2025.3
+
+16. **ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning.**
+
+    *Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang.* [[abs](https://openreview.net/forum?id=AOqGF7Po7Z)], [[code](https://github.com/Strong-AI-Lab/ChatLogic)], 2024.2
+
 
 ##### Process Optimization
 
@@ -506,6 +524,18 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing.* [[abs](https://arxiv.org/abs/2305.03268)], 2023.5
 
+8. **A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge.**
+
+   *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://openreview.net/forum?id=hli7A0ioiS_)], 2023.3
+
+9. **A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge.**
+
+   *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://openreview.net/forum?id=hli7A0ioiS_)], 2023.3
+
+10. **HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention.**
+
+   *Qiming Bao, Lin Ni, Jiamou Liu.* [[abs](https://arxiv.org/abs/2002.03140)], 2020.02
+
 
 #### Others
 
@@ -557,6 +587,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* [[abs](https://arxiv.org/abs/2411.12498)], 2023.11
 
+13. **Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking.**
+
+    *Neset TAN, Trung Nguyen, Josh Bensemann, Alex Peng, Qiming Bao, Yang Chen, Mark Gahegan, Michael Witbrock.* [[abs](https://aclanthology.org/2023.eacl-main.194/)], 2023.5
+
+14. **Input-length-shortening and text generation via attention values.**
+
+    *Neset TAN, Alex Peng, Joshua Bensemann, Qiming Bao, Tim Hartill, Mark Gahegan, Michael Witbrock.* [[abs](https://arxiv.org/abs/2303.07585)], 2023.2
+
+15. **DeepQR: Neural-based Quality Ratings for Learnersourced Multiple-Choice Questions.**
+
+    *Lin Ni, Qiming Bao, Xiaoxuan Li, Qianqian Qi, Paul Denny, Jim Warren, Michael Witbrock, Jiamou Liu.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/21562)], 2022.3
 
 ### Analysis
 
@@ -640,7 +681,17 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* [[abs](https://arxiv.org/abs/2308.07336)], 2023.8
 
+21. **Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning.**
 
+    *Qiming Bao, Gaël Gendron, Alex Peng, Neset Tan, Michael Witbrock, Jiamou Liu.* [[abs](https://arxiv.org/abs/2310.09430)], [[code](https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning)], 2024.12
+
+22. **Large Language Models Are Not Strong Abstract Reasoners.**
+
+    *Gaël Gendron, Qiming Bao, Michael Witbrock, Gillian Dobbie.* [[abs](https://arxiv.org/abs/2305.19555)], [[code](https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning)], 2024.08
+
+23. **AbductionRules: Training Transformers to Explain Unexpected Inputs.**
+
+    *Nathan Young, Qiming Bao, Joshua Ljudo Bensemann, Michael J. Witbrock.* [[abs](https://aclanthology.org/2022.findings-acl.19/)], [[code](https://github.com/Strong-AI-Lab/AbductionRules)], 2022.08
 
 ---
 
