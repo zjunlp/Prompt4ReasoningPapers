@@ -532,7 +532,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
    *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://openreview.net/forum?id=hli7A0ioiS_)], 2023.3
 
-10. **HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention.**
+10. **Enhancing Data Augmentation with Knowledge-Enriched Data Generation via Dynamic Prompt-Tuning Method.**
+
+   *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://ieeexplore.ieee.org/abstract/document/10651072/)], 2020.03
+   
+11. **HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention.**
 
    *Qiming Bao, Lin Ni, Jiamou Liu.* [[abs](https://arxiv.org/abs/2002.03140)], 2020.02
 
@@ -598,6 +602,10 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 15. **DeepQR: Neural-based Quality Ratings for Learnersourced Multiple-Choice Questions.**
 
     *Lin Ni, Qiming Bao, Xiaoxuan Li, Qianqian Qi, Paul Denny, Jim Warren, Michael Witbrock, Jiamou Liu.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/21562)], 2022.3
+
+16. **CoRA: Optimizing Low-Rank Adaptation with Common Subspace of Large Language Models.**
+
+    *Xiaojun Xiao, Sen Shen, Qiming Bao, Hongfei Rong, Kairui Liu, Zhongsheng Wang, Jiamou Liu.* [[abs](https://arxiv.org/abs/2409.02119)], 2024.8
 
 ### Analysis
 
