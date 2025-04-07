@@ -451,6 +451,7 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
    *Shibo Hao, Tianyang Liu, Zhen Wang, Zhiting Hu* [[abs](https://arxiv.org/abs/2305.11554)], 2023.5
    
 10. **SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement**
+    
     *Runnan Fang, Xiaobin Wang, Yuan Liang, Shuofei Qiao, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen* [[abs](https://arxiv.org/abs/2504.03561)], 2025.4
 
 
