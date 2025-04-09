@@ -406,11 +406,11 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
 10. **The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code.**
 
-   *Xiao Liu, Da Yin, Chen Zhang, Yansong Feng, Dongyan Zhao.* [[abs](https://arxiv.org/abs/2305.19213)], 2023.5
+    *Xiao Liu, Da Yin, Chen Zhang, Yansong Feng, Dongyan Zhao.* [[abs](https://arxiv.org/abs/2305.19213)], 2023.5
 
 11. **When Do Program-of-Thought Works for Reasoning?**
 
-   *Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen.* [[abs](https://arxiv.org/abs/2308.15452)], 2023.12
+    *Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen.* [[abs](https://arxiv.org/abs/2308.15452)], 2023.12
 
 ###### Tool Learning
 
@@ -502,9 +502,9 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 ##### Explicit Knowledge
 
 1. **MemPrompt: Memory-assisted prompt editing to improve GPT-3 after deployment**
-   
+
    *Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.* [[abs](https://arxiv.org/abs/2201.06009)], 2022.1
-   
+
 2. **LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning.**
 
    *Zhicheng Yang, Jinghui Qin, Jiaqi Chen, Liang Lin, Xiaodan Liang.* [[abs](https://arxiv.org/abs/2205.08232)], 2022.5
@@ -536,10 +536,14 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 9. **Enhancing Data Augmentation with Knowledge-Enriched Data Generation via Dynamic Prompt-Tuning Method.**
 
    *Qianqian Qi, Qiming Bao*, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock.* [[abs](https://ieeexplore.ieee.org/abstract/document/10651072/)], 2020.03
-   
+
 10. **HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention.**
 
-   *Qiming Bao, Lin Ni, Jiamou Liu.* [[abs](https://arxiv.org/abs/2002.03140)], 2020.02
+    *Qiming Bao, Lin Ni, Jiamou Liu.* [[abs](https://arxiv.org/abs/2002.03140)], 2020.02
+
+11.  **Agentic Knowledgeable Self-awareness.**
+
+    *Shuofei Qiao, Zhisong Qiu, Baochang Ren, Xiaobin Wang, Xiangyuan Ru, Ningyu Zhang, Xiang Chen, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.* [abs](https://arxiv.org/abs/2504.03553), 2025.03
 
 
 #### Others
