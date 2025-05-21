@@ -718,6 +718,9 @@ Reasoning, as an essential ability for complex problem-solving, can provide back
 
     *Nathan Young, Qiming Bao, Joshua Ljudo Bensemann, Michael J. Witbrock.* [[abs](https://aclanthology.org/2022.findings-acl.19/)], [[code](https://github.com/Strong-AI-Lab/AbductionRules)], 2022.08
 
+24. **Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**
+
+    *Shangziqi Zhao, Jiahao Yuan, Guisong Yang, Usman Naseem.* [[abs](https://arxiv.org/abs/2505.14582)], 2025.05
 ---
 
 ## 🧰 Resources
